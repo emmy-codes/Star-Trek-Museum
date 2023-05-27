@@ -74,12 +74,15 @@ The colour scheme is pre-determined with a variety of colours, I shall try to pi
 
 This large colour palette is the LCARS (or Library Computer Access/Retrieval System) is the operating system used on most Trek series so any visitor familiar with the franchise will instantly recognise it. The challenge will be to make it as friendly for non Trek visitors/take into account any accessibility needs.
 
-Inline-style: 
 ![alt text](https://tinyurl.com/2hc4u478 "Star Trek LCARS colour palette")
 
 ### Typography
 
-Mike Okuda, the graphic designer who created the LCARS theme, said that the Swiss 911 font was chosen although he preferred Helvetica Ultra Compressed. I had a look at these two fonts and agree that the Helvetica looks better as it is not as thick as Swiss 911, but the letters are very close together so I think more spacing between them would make for better UX.
+Doing some research I discovered that Mike Okuda, the graphic designer who created the LCARS theme, said that the Swiss 911 font was chosen although he preferred Helvetica Ultra Compressed. 
+
+![alt_text](https://tinyurl.com/2zxubhjj "Tweet from Mike Okuda confirming the use of Swiss 911 font for LCARS")
+
+I had a look at these two fonts and agree that the Helvetica looks better as it is not as thick as Swiss 911, but the letters are very close together so I think more spacing between them would make for better UX.
 
 Seeing as this is not a regular font most people will have on their computers, I researched what Google Font could be a suitable alternative and have decided to use Antonio. This will ensure the page has a proper Trek feel to it without people needing special font packages installed. 
 
