@@ -14,6 +14,8 @@ The Star Trek Museum is an imaged museum detailing the exhibitions available for
 
 * [User Experience](#user-experience-ux)
   * [User Stories](#user-stories)
+    * [New Users](#new-users)
+    * [Experienced Users](#experienced-users)
 
 * [Design](#design)
   * [Colour Scheme](#colour-scheme)
@@ -54,7 +56,7 @@ The Star Trek Museum is an imaged museum detailing the exhibitions available for
 
 The landing page will more geared towards new visitors and / or those new to Star Trek and wanting to know more. There will be clean and inviting information on what the visitor can expect to experience by visiting the museum by following the CTAS / links provided, as well as an image from each of the exhibitions to cultivate curiosity to learn more.
 
-#### Experienced Users
+#### Experienced Users:
 
 By experienced users I mean those that have visited the museum before and / or are fans of the Trek franchise and need less guidance on the page.
 
@@ -74,27 +76,28 @@ The colour scheme is pre-determined with a variety of colours, I shall try to pi
 
 This large colour palette is the LCARS (or Library Computer Access/Retrieval System) is the operating system used on most Trek series so any visitor familiar with the franchise will instantly recognise it. The challenge will be to make it as friendly for non Trek visitors/take into account any accessibility needs.
 
-![alt text](https://tinyurl.com/2hc4u478 "Star Trek LCARS colour palette")
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d85bec30-3a3c-4284-ab35-57810db8e2a8" width="" height="" alt="Star Trek LCARS colour palette with 36 colours">
 
 ### Typography
 
-Doing some research I discovered that Mike Okuda, the graphic designer who created the LCARS theme, said that the Swiss 911 font was chosen although he preferred Helvetica Ultra Compressed. 
+Doing some research I discovered a Tweet that Mike Okuda, the graphic designer who created the LCARS theme, said that the Swiss 911 font was chosen although he preferred Helvetica Ultra Compressed. 
 
-![alt_text](https://tinyurl.com/2zxubhjj "Tweet from Mike Okuda confirming the use of Swiss 911 font for LCARS")
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/cb0853e5-fc06-4231-8475-72f2edb41fdf" width="" height="" alt="Tweet from Mike Okuda confirming the use of Swiss 911 font for LCARS">
 
-I had a look at these two fonts and agree that the Helvetica looks better as it is not as thick as Swiss 911, but the letters are very close together so I think more spacing between them would make for better UX.
+I had a look at these two fonts and agree that the Helvetica looks better as it is not as thick as Swiss 911, but the letters are very close together which is how they are on the LCARS system but for the sake of accessibility and UX I think they should have more spacing between them.
 
 Seeing as this is not a regular font most people will have on their computers, I researched what Google Font could be a suitable alternative and have decided to use Antonio. This will ensure the page has a proper Trek feel to it without people needing special font packages installed. 
 
-If you've imported fonts to use in your project, add some information about them here. You can include information like:
+Taking a look at the example LCARS screen below, I decided 700 weight could be good for main titles, while 400 works nicely in sizes 48px for headings, and 21px and 16px for paragraphs/other text.
 
-Why did you choose the font you have?
-Is this an accessibly friendly font?
-What weights have you included?
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/55b56587-acb2-4ca3-90b1-6afb6daaafce" width="" height="" alt="Example of an LCARS interface from the Engineering department">
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d9d344b4-3ca1-4135-91ad-b16f012e73f2" width="" height="" alt="">
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/fd5c89d1-e2d4-4d7c-901c-08a4d6ffc062" width="" height="" alt="">
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/10b38372-9863-4938-9d09-e90d9170ab71" width="" height="" alt="">
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/4c4369ac-8636-4c15-9d85-1eedcf87f84f" width="" height="" alt="">
 
-I also like to include an image of the fonts chosen as a reference.
-
-[Google Fonts](https://fonts.google.com/) is a popular choice for importing fonts to use in your project, as it doesn't require you to download the fonts to use them.
+<img src="" width="" height="" alt="">
+<img src="" width="" height="" alt="">
 
 ### Imagery
 
