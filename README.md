@@ -21,6 +21,7 @@ The Star Trek Museum is an imaged museum detailing the exhibitions available for
   * [Colour Scheme](#colour-scheme)
   * [Typography](#typography)
   * [Imagery](#imagery)
+    * [Page: Star Trek Crews](#page-star-trek-crews)
   * [Wireframes](#wireframes)
 
 * [Features](#features)
@@ -76,13 +77,17 @@ The colour scheme is pre-determined with a variety of colours, I shall try to pi
 
 This large colour palette is the LCARS (or Library Computer Access/Retrieval System) is the operating system used on most Trek series so any visitor familiar with the franchise will instantly recognise it. The challenge will be to make it as friendly for non Trek visitors/take into account any accessibility needs.
 
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d85bec30-3a3c-4284-ab35-57810db8e2a8" width="" height="" alt="Star Trek LCARS colour palette with 36 colours">
+<div align="center">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d85bec30-3a3c-4284-ab35-57810db8e2a8" width="" height="" alt="Star Trek LCARS colour palette with 36 colours">
+</div>
 
 ### Typography
 
-Doing some research I discovered a Tweet that Mike Okuda, the graphic designer who created the LCARS theme, said that the Swiss 911 font was chosen although he preferred Helvetica Ultra Compressed. 
+Doing some research I discovered a Tweet that Mike Okuda, the graphic designer who created the LCARS theme, said that the Swiss 911 font was chosen although he preferred Helvetica Ultra Compressed.
 
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/cb0853e5-fc06-4231-8475-72f2edb41fdf" width="" height="" alt="Tweet from Mike Okuda confirming the use of Swiss 911 font for LCARS">
+<div align="center">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/cb0853e5-fc06-4231-8475-72f2edb41fdf" width="" height="" alt="Tweet from Mike Okuda confirming the use of Swiss 911 font for LCARS">
+</div>
 
 I had a look at these two fonts and agree that the Helvetica looks better as it is not as thick as Swiss 911, but the letters are very close together which is how they are on the LCARS system but for the sake of accessibility and UX I think they should have more spacing between them.
 
@@ -90,18 +95,32 @@ Seeing as this is not a regular font most people will have on their computers, I
 
 Taking a look at the example LCARS screen below, I decided 700 weight could be good for main titles, while 400 works nicely in sizes 48px for headings, and 21px and 16px for paragraphs/other text.
 
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/55b56587-acb2-4ca3-90b1-6afb6daaafce" width="" height="" alt="Example of an LCARS interface from the Engineering department">
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d9d344b4-3ca1-4135-91ad-b16f012e73f2" width="" height="" alt="">
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/fd5c89d1-e2d4-4d7c-901c-08a4d6ffc062" width="" height="" alt="">
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/10b38372-9863-4938-9d09-e90d9170ab71" width="" height="" alt="">
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/4c4369ac-8636-4c15-9d85-1eedcf87f84f" width="" height="" alt="">
+<div align="center">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/ae757fa7-9171-4c85-bc84-9e2125893738" width="" height="" alt="Example of an LCARS interface from the Engineering department">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d9d344b4-3ca1-4135-91ad-b16f012e73f2" width="" height="" alt="">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/fd5c89d1-e2d4-4d7c-901c-08a4d6ffc062" width="" height="" alt="">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/10b38372-9863-4938-9d09-e90d9170ab71" width="" height="" alt="">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/4c4369ac-8636-4c15-9d85-1eedcf87f84f" width="" height="" alt="">
+ </div>
 
-<img src="" width="" height="" alt="">
+
 <img src="" width="" height="" alt="">
 
 ### Imagery
 
-Use this section to explain what sort of imagery you plan to use through your site.
+During my research I came across a favicon of a Star Trek badge that I plan on using on each page: <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/65ab9634-8241-4687-b2b9-5a961057c6be" width="50px" height="50px" alt="">
+
+#### Page: Star Trek Crews
+
+This page will have 3 of the many different Trek crews due to time constraints, so I went researching to find 3 images as similar to oneanother as possible. Luckily through [IMDB](https://www.imdb.com/ "IMDB main page") each of the 3 Trek pages have identical crew artwork which will help improve the UX/UI of the page. On this page, there is the possibility to link the other pages onto here. (in the blurb for one crew there could be links to the starship exhibition)
+
+<div align="center">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/999e3d8e-5de5-43a3-ad79-a08129b2cdc2" width="250" height="300" alt="">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/969309a6-0c91-4fe6-b1ee-28b8e438ada3" width="250" height="300" alt="">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/79987d51-d90b-4b87-abac-499051bc2a75" width="250" height="300" alt="">
+</div>
+
+#### Exhibition: Starships
 
 ### Wireframes
 
