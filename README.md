@@ -21,7 +21,8 @@ The Star Trek Museum is an imaged museum detailing the exhibitions available for
   * [Colour Scheme](#colour-scheme)
   * [Typography](#typography)
   * [Imagery](#imagery)
-    * [Page: Star Trek Crews](#page-star-trek-crews)
+    * [Page: Star Trek Crews](#page-star-trek-crews) 
+    * [Exhibition: Starships](#exhibition-starships)
   * [Wireframes](#wireframes)
 
 * [Features](#features)
@@ -86,7 +87,7 @@ This large colour palette is the LCARS (or Library Computer Access/Retrieval Sys
 Doing some research I discovered a Tweet that Mike Okuda, the graphic designer who created the LCARS theme, said that the Swiss 911 font was chosen although he preferred Helvetica Ultra Compressed.
 
 <div align="center">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/cb0853e5-fc06-4231-8475-72f2edb41fdf" width="" height="" alt="Tweet from Mike Okuda confirming the use of Swiss 911 font for LCARS">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/cb0853e5-fc06-4231-8475-72f2edb41fdf" width="300" height="250" alt="Tweet from Mike Okuda confirming the use of Swiss 911 font for LCARS">
 </div>
 
 I had a look at these two fonts and agree that the Helvetica looks better as it is not as thick as Swiss 911, but the letters are very close together which is how they are on the LCARS system but for the sake of accessibility and UX I think they should have more spacing between them.
@@ -97,38 +98,40 @@ Taking a look at the example LCARS screen below, I decided 700 weight could be g
 
 <div align="center">
  <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/ae757fa7-9171-4c85-bc84-9e2125893738" width="" height="" alt="Example of an LCARS interface from the Engineering department">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d9d344b4-3ca1-4135-91ad-b16f012e73f2" width="" height="" alt="">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/fd5c89d1-e2d4-4d7c-901c-08a4d6ffc062" width="" height="" alt="">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/10b38372-9863-4938-9d09-e90d9170ab71" width="" height="" alt="">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/4c4369ac-8636-4c15-9d85-1eedcf87f84f" width="" height="" alt="">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d9d344b4-3ca1-4135-91ad-b16f012e73f2" width="" height="" alt="Antonio font 700 weight, size 48 pixels">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/fd5c89d1-e2d4-4d7c-901c-08a4d6ffc062" width="" height="" alt="Antonio font 400 weight, size 48 pixels">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/10b38372-9863-4938-9d09-e90d9170ab71" width="" height="" alt="Antonio font 400 weight, size 21 pixels">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/4c4369ac-8636-4c15-9d85-1eedcf87f84f" width="" height="" alt="Antonio font 400 weight, size 16 pixels">
  </div>
-
-
-<img src="" width="" height="" alt="">
 
 ### Imagery
 
-During my research I came across a favicon of a Star Trek badge that I plan on using on each page: <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/65ab9634-8241-4687-b2b9-5a961057c6be" width="50px" height="50px" alt="">
+During my research I came across a favicon of a Star Trek badge that I plan on using on each page: <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/65ab9634-8241-4687-b2b9-5a961057c6be" width="50px" height="50px" alt="Pixelated favicon of a gold and white Star Trek badge">
 
 #### Page: Star Trek Crews
 
 This page will have 3 of the many different Trek crews due to time constraints, so I went researching to find 3 images as similar to oneanother as possible. Luckily through [IMDB](https://www.imdb.com/ "IMDB main page") each of the 3 Trek pages have identical crew artwork which will help improve the UX/UI of the page. On this page, there is the possibility to link the other pages onto here. (in the blurb for one crew there could be links to the starship exhibition)
 
 <div align="center">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/999e3d8e-5de5-43a3-ad79-a08129b2cdc2" width="250" height="300" alt="">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/969309a6-0c91-4fe6-b1ee-28b8e438ada3" width="250" height="300" alt="">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/79987d51-d90b-4b87-abac-499051bc2a75" width="250" height="300" alt="">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/999e3d8e-5de5-43a3-ad79-a08129b2cdc2" width="250" height="300" alt="Crew of Star Trek: Voyager">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/969309a6-0c91-4fe6-b1ee-28b8e438ada3" width="250" height="300" alt="Crew of Star Trek: Deep Space Nine">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/79987d51-d90b-4b87-abac-499051bc2a75" width="250" height="300" alt="Crew of Star Trek: The Next Generation">
 </div>
 
 #### Exhibition: Starships
 
+Similar to the crews page there will be details on the ship exhibition at the museum:
+
+<div align="center">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/7fa1ab64-6bf5-4b36-8976-ab70577c9b7d" width="300" height="250" alt="Starship Voyager">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/f310ba4f-dd88-4c56-9861-1ca1d0acd66d" width="300" height="250" alt="Space station Deep Space Nine">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/1331361a-e1f1-4a47-b24b-7f2f1370496b" width="300" height="250" alt="Starship Enterprise">
+</div>
+
 ### Wireframes
 
 Add the images or links for your wireframes here.
-
-There are lots of different options to create your wireframes - Code Institute students can access [Balsamiq](https://balsamiq.com/) as part of the course.
-
-Some other options include [Figma](https://www.figma.com/), [AdobeXD](https://www.adobe.com/products/xd.html), [Sketch](https://www.sketch.com/?utm_source=google&utm_medium=cpc&adgroup=uxui&device=c&matchtype=e&utm_campaign=ADDICTMOBILE_SKETCH_GAD_DG_UK_T1_ALWAYS-ON_S_TRF_PROS_BRAND&utm_term=sketch&utm_source=google&utm_medium=cpc&utm_content=TOF_BRND__generic&hsa_acc=8710913982&hsa_cam=16831089317&hsa_grp=134620695759&hsa_ad=592060065319&hsa_src=g&hsa_tgt=kwd-14921750&hsa_kw=sketch&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwr4eYBhDrARIsANPywCjRIFn93DMezYnsyE5Fic_8l8kynJtut0GYMU01TiohHjwziFtlH0gaAhteEALw_wcB) and [Mockup](https://apps.apple.com/us/app/mockup-sketch-ui-ux/id1527554407) to name just a few! Or you can even go old school and get those wireframes completed using pen and paper. Just snap an image of the completed wireframes to add the images to the README.
+<img src="" width="" height="" alt="">
 
 ## Features
 
