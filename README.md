@@ -21,6 +21,7 @@ The Star Trek Museum is an imaged museum detailing the exhibitions available for
   * [Colour Scheme](#colour-scheme)
   * [Typography](#typography)
   * [Imagery](#imagery)
+    * [Homepage](#homepage)
     * [Page: Star Trek Crews](#page-star-trek-crews) 
     * [Exhibition: Starships](#exhibition-starships)
   * [Wireframes](#wireframes)
@@ -108,6 +109,11 @@ Taking a look at the example LCARS screen below, I decided 700 weight could be g
 
 During my research I came across a favicon of a Star Trek badge that I plan on using on each page: <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/65ab9634-8241-4687-b2b9-5a961057c6be" width="50px" height="50px" alt="Pixelated favicon of a gold and white Star Trek badge">
 
+#### Homepage
+
+
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/58808344-6591-4ad4-ac8b-6b0f8a1f4f09" width="" height="" alt="Star Trek Pride selection of starships with various pride flags">
+
 #### Page: Star Trek Crews
 
 This page will have 3 of the many different Trek crews due to time constraints, so I went researching to find 3 images as similar to oneanother as possible. Luckily through [IMDB](https://www.imdb.com/ "IMDB main page") each of the 3 Trek pages have identical crew artwork which will help improve the UX/UI of the page. On this page, there is the possibility to link the other pages onto here. (in the blurb for one crew there could be links to the starship exhibition)
@@ -130,7 +136,6 @@ Similar to the crews page there will be details on the ship exhibition at the mu
 
 ### Wireframes
 
-Add the images or links for your wireframes here.
 <img src="" width="" height="" alt="">
 
 ## Features
