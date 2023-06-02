@@ -80,7 +80,7 @@ The colour scheme is pre-determined with a variety of colours, I shall try to pi
 This large colour palette is the LCARS (or Library Computer Access/Retrieval System) is the operating system used on most Trek series so any visitor familiar with the franchise will instantly recognise it. The challenge will be to make it as friendly for non Trek visitors/take into account any accessibility needs.
 
 <div align="center">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d85bec30-3a3c-4284-ab35-57810db8e2a8" width="" height="" alt="Star Trek LCARS colour palette with 36 colours">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d85bec30-3a3c-4284-ab35-57810db8e2a8" width="250" height="250" alt="Star Trek LCARS colour palette with 36 colours">
 </div>
 
 ### Typography
@@ -88,7 +88,7 @@ This large colour palette is the LCARS (or Library Computer Access/Retrieval Sys
 Doing some research I discovered a Tweet that Mike Okuda, the graphic designer who created the LCARS theme, said that the Swiss 911 font was chosen although he preferred Helvetica Ultra Compressed.
 
 <div align="center">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/cb0853e5-fc06-4231-8475-72f2edb41fdf" width="300" height="250" alt="Tweet from Mike Okuda confirming the use of Swiss 911 font for LCARS">
+ <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/cb0853e5-fc06-4231-8475-72f2edb41fdf" width="350" height="250" alt="Tweet from Mike Okuda confirming the use of Swiss 911 font for LCARS">
 </div>
 
 I had a look at these two fonts and agree that the Helvetica looks better as it is not as thick as Swiss 911, but the letters are very close together which is how they are on the LCARS system but for the sake of accessibility and UX I think they should have more spacing between them.
