@@ -136,7 +136,23 @@ Similar to the crews page there will be details on the ship exhibition at the mu
 
 ### Wireframes
 
-<img src="" width="" height="" alt="">
+My wireframes accidentally went rather hi-fi because I wanted to see how the background images and the strong LCARS colour scheme was going to work, but I finished the estimated design for desktop, tablet and mobile for the homepage, crew exhibition, starship exhibition, contact page and  404 error page.
+
+#### Homepage
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/5811ad4a-bfd6-44db-91be-8d49feb09a0a" width="" height="" alt="Homepage wireframe design">
+
+#### Crews
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/b213d5b8-7778-444e-bacc-3d87006f21da" width="" height="" alt="Crew page wireframe design">
+
+#### Starships
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/04201ee9-356b-4702-84f0-a781976a3058" width="" height="" alt="Starships wireframe design">
+
+#### Contact
+
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/da2f7882-beec-4049-afba-d6a5edcf6c03" width="" height="" alt="Contact page wireframe design">
+
+#### 404
+<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d7632cb9-2617-4df9-91f5-f78e99276f74" width="" height="" alt="404 page wireframe design">
 
 ## Features
 
