@@ -25,6 +25,11 @@ The Star Trek Museum is an imaged museum detailing the exhibitions available for
     * [Page: Star Trek Crews](#page-star-trek-crews) 
     * [Exhibition: Starships](#exhibition-starships)
   * [Wireframes](#wireframes)
+    * [Homepage](#homepage) 
+    * [Crews](#crews)
+    * [Starships](#starships)
+    * [Contact](#contact)
+    * [404](#404)
 
 * [Features](#features)
   * [General Features on Each Page](#general-features-on-each-page)
