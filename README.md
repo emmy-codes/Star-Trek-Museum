@@ -161,6 +161,25 @@ My wireframes accidentally went rather hi-fi because I wanted to see how the bac
 
 ## Features
 
+My site comprises of 4 pages:
+
+The homepage, welcoming the user to the main page for the Star Trek Museum, introducing them to the project and informing them of what they can expect when visiting the museum. An image helps to break up the text portion to make it easier for the user to view the content without getting overwhelmed.
+
+Beneath the introductory text are 3 buttons leading to the different sections of the site as a sort of CTA.
+
+The Crews of Star Trek page showcases the 3 Treks that will be available for viewing along with an image of each crew.
+
+The Starships page features the large scale replica models available for viewing at the museum.
+
+The get in touch page has the phone, address and email for contact, along with a form for those who prefer, and a map (to a fake/incorrect address).
+
+The 404 page (not counted in the 4 page site) has an image/gif of Captain Picard facepalming with a button link to get back to the homepage.
+
+Each page has the same header and nav bar, and the same footer with the (fake) socials available.
+
+The tab has a favicon of the Star Trek Federation logo
+
+
 👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
 
 This section can be used to explain what pages your site is made up of.
@@ -188,6 +207,18 @@ Have you chosen fonts that are dyslexia/accessible friendly?
 Code Institute have an amazing channel for all things accessibility (a11y-accessibility) I would highly recommend joining this channel as it contains a wealth of information about accessibility and what we can do as developers to be more inclusive.
 
 ## Technologies Used
+
+#### Languages
+
+HTML, CSS
+
+#### Programs
+
+Github for uploading my code and having a place to create my live site via Github Pages.
+
+Balsamiq for my wireframe designs.
+
+Google Fonts for finding a replacement font that everyone would have access to.
 
 👩🏻‍💻 View an example of a completed Technologies Used section [here](https://github.com/kera-cudmore/Bully-Book-Club#Technologies-Used)
 
