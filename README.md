@@ -175,30 +175,29 @@ The get in touch page has the phone, address and email for contact, along with a
 
 The 404 page (not counted in the 4 page site) has an image/gif of Captain Picard facepalming with a button link to get back to the homepage.
 
-Each page has the same header and nav bar, and the same footer with the (fake) socials available.
-
-The tab has a favicon of the Star Trek Federation logo
-
-
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
-
-This section can be used to explain what pages your site is made up of.
-
 ### General features on each page
 
-If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
+Each page has the same header and nav bar, and the same footer with the (fake) socials available. The desktop version has the navigation bar in the form of links on the top right corner, whereas the mobile versions have a hamburger menu with a dropdown containing the same links.
 
-I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
+The tabs have a favicon of the Star Trek comms badge mentioned in the ### Imagery section which is designed to fit well on Chrome, android and apple mobiles.
+
+(( I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.))
 
 ### Future Implementations
 
-What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
+In the future I would like to have the background as a twinkling star scene, but without JavaScript that would be an excessively tedious manual positioning of dozens of stars.
+
+I would also like to have the site look more like LCARS panels in order to appeal more to Trekkies, but shaping those panels would require more time and practice as of now.
 
 ### Accessibility
 
-Be an amazing developer and get used to thinking about accessibility in all of your projects!
+Some accessibility plans I have once I'm coding:
 
-This is the place to make a note of anything you have done with accessibility in mind. Some examples include:
+* Aria labels on any media links
+* Semantic HTML for ease of screen readers (thus avoiding div soup)
+* Descriptive alt text on any imagery
+* Adequate spacing on typography to ensure ease of readability
+* Being mindful of colours
 
 Have you used icons and added aria-labels to enable screen readers to understand these?
 Have you ensured your site meets the minimum contrast requirements?
@@ -220,19 +219,9 @@ Balsamiq for my wireframe designs.
 
 Google Fonts for finding a replacement font that everyone would have access to.
 
-👩🏻‍💻 View an example of a completed Technologies Used section [here](https://github.com/kera-cudmore/Bully-Book-Club#Technologies-Used)
+(( Make sure to include things like git, GitHub, the program used to make your wireframes, any programs used to compress your images, did you use a CSS framework like Bootstrap? If so add it here (add the version used).
 
-### Languages Used
-
-Make a note here of all the languages used in creating your project. For the first project this will most likely just be HTML & CSS.
-
-### Frameworks, Libraries & Programs Used
-
-Add any frameworks, libraries or programs used while creating your project.
-
-Make sure to include things like git, GitHub, the program used to make your wireframes, any programs used to compress your images, did you use a CSS framework like Bootstrap? If so add it here (add the version used).
-
-A great tip for this section is to include them as you use them, that way you won't forget what you ended up using when you get to the end of your project.
+A great tip for this section is to include them as you use them, that way you won't forget what you ended up using when you get to the end of your project. ))
 
 ## Deployment & Local Development
 
