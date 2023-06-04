@@ -6,15 +6,17 @@
 }
 
 h1 {
-    color: white;
+    color: #A533FF;
 }
 
 .sub-heading {
-    
+    color: #FFAA90;
+    font-size: 1.2rem;
+    margin: auto;
 }
 
 .intro-text {
-    color:#FFAA90;
+    color: #FFAA90;
     font-size: 1.2rem;
     max-width: 60%;
     margin: auto;
