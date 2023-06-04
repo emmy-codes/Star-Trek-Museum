@@ -23,3 +23,10 @@ footer {
     padding-top: 0.5rem;
     border-top: 2px solid black;
 }
+
+.landing-background {
+    margin: auto;
+    width: 60vw;
+    height: 100vh;
+    display: block;
+}
