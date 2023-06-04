@@ -196,8 +196,8 @@ Some accessibility plans I have once I'm coding:
 * Aria labels on any media links
 * Semantic HTML for ease of screen readers (thus avoiding div soup)
 * Descriptive alt text on any imagery
-* Adequate spacing on typography to ensure ease of readability
-* Being mindful of colours
+* Adequate spacing on typography to ensure readability
+* Being mindful of colour contrast
 
 Have you used icons and added aria-labels to enable screen readers to understand these?
 Have you ensured your site meets the minimum contrast requirements?
@@ -219,9 +219,7 @@ Balsamiq for my wireframe designs.
 
 Google Fonts for finding a replacement font that everyone would have access to.
 
-(( Make sure to include things like git, GitHub, the program used to make your wireframes, any programs used to compress your images, did you use a CSS framework like Bootstrap? If so add it here (add the version used).
-
-A great tip for this section is to include them as you use them, that way you won't forget what you ended up using when you get to the end of your project. ))
+(( Make sure to include things like git, GitHub, the program used to make your wireframes, any programs used to compress your images, did you use a CSS framework like Bootstrap? If so add it here (add the version used))
 
 ## Deployment & Local Development
 
@@ -253,22 +251,22 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 ## Credits
 
-👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
-
-The Credits section is where you can credit all the people and sources you used throughout your project.
-
 ### Code Used
 
-If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
+I currently have no plans to use code from elsewhere in order to challenge my own understanding of writing HTML/CSS, although I have taken inspiration and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
 
 ### Content
 
-Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
+I am planning to use [OpenAI](https://chat.openai.com/) to create most of the text for me so I can focus my time on practicing with the code.
 
 ###  Media
 
-If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
-  
+The crew images are sourced from [IMDB](https://www.imdb.com/)
+The starships are from [PNGfind](https://www.pngfind.com/freepng/star-trek/)
+
+
 ###  Acknowledgments
 
-If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
+Thank you to my partner for his insight on media queries and guidance on the best practices for writing instructions on forking and cloning
+
+Thank you to my classmates on Slack for assisting when I had questions regarding HTML
