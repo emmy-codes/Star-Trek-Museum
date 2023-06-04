@@ -9,8 +9,15 @@ h1 {
     color: white;
 }
 
-h2 {
+.sub-heading {
+    
+}
+
+.intro-text {
     color:#FFAA90;
+    font-size: 1.2rem;
+    max-width: 60%;
+    margin: auto;
 }
 
 footer {
@@ -26,7 +33,45 @@ footer {
 
 .landing-background {
     margin: auto;
-    width: 60vw;
+    width: 50vw;
     height: 100vh;
     display: block;
+}
+
+.panel-wrapper {
+    display: flex;
+    gap: 0.5rem;
+    width: 100vw;
+    margin-bottom: 3em;
+    position: relative;
+}
+
+.border-bottom1 {
+    height: 1.8vh;
+    width: 40vw;
+    background-color: #7788FF;
+}
+
+.border-bottom2 {
+    height: 1.8vh;
+    width: 2vw;
+    background-color: #FF7700;
+}
+
+.border-bottom3 {
+    height: 1.8vh;
+    width: 10vw;
+    background-color: #CC88FF;
+}
+
+.border-bottom4 {
+    height: 1.8vh;
+    width: 20vw;
+    background-color: #CC88FF;
+}
+
+.border-bottom5 {
+    height: 1.8vh;
+    width: 20vw;
+    background-color: #DD4444;
 }
