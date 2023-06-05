@@ -8,6 +8,18 @@ h1 {
     color: #A533FF;
 }
 
+a {
+    text-decoration: none;
+}
+
+nav {
+    background-color: black;
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-around;
+    gap: 5em;
+}
+
 .sub-heading {
     color: #FFAA90;
     font-size: 1.2rem;
@@ -19,7 +31,8 @@ h1 {
     flex-wrap: wrap;
     align-items: center;
     flex-direction: column;
-    gap: 2em;
+    gap: 3em;
+    padding-top: 5rem;
 }
 
 .intro-text {
@@ -30,19 +43,19 @@ h1 {
 }
 
 footer {
-    position: fixed;
+    display: flex;
+    position: absolute;
     bottom: 0;
-    width: 100vw;
-    height: 5vh;
-    background-color: #FFAA90;
+    width: 100%;
     text-align: center;
-    padding-top: 0.5rem;
-    border-top: 2px solid black;
+    color: #A533FF;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .landing-background {
     margin: auto;
-    width: 50vw;
+    width: 60vw;
     height: 100vh;
     display: block;
     position: absolute;
@@ -52,13 +65,13 @@ footer {
     z-index: -10;
 }
 
-.panel-wrapper {
+.panel-wrapper-top {
     display: flex;
     gap: 0.5rem;
-    width: 100vw;
-    margin-bottom: 3em;
-    position: relative;
+    justify-content: center;
 }
+
+/* LCARS nav border panel, takes up 74vw */
 
 .border-bottom1 {
     height: 1.8vh;
@@ -68,7 +81,7 @@ footer {
 
 .border-bottom2 {
     height: 1.8vh;
-    width: 2vw;
+    width: 1.5vw;
     background-color: #FF7700;
 }
 
@@ -86,9 +99,11 @@ footer {
 
 .border-bottom5 {
     height: 1.8vh;
-    width: 3vw;
+    width: 2.5vw;
     background-color: #DD4444;
 }
+
+/* LCARS footer border panel, takes up 74vw */
 
 .border-top1 {
     height: 1.8vh;
@@ -98,24 +113,30 @@ footer {
 
 .border-top2 {
     height: 1.8vh;
-    width: 2vw;
+    width: 3vw;
     background-color: #FFAA90;
 }
 
 .border-top3 {
     height: 0.6vh;
-    width: 10vw;
+    width: 14vw;
     background-color: #DD4444;
 }
 
 .border-top4 {
     height: 1.8vh;
-    width: 10vw;
+    width: 12vw;
     background-color: #CC88FF;
 }
 
 .border-top5 {
     height: 1.8vh;
-    width: 3vw;
+    width: 5vw;
     background-color: #FFAA90;
+}
+
+.panel-wrapper-bottom {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
 }
