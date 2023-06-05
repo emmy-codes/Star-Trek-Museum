@@ -13,24 +13,10 @@ body {
     margin: 0;
 }
 
-.flex-header {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    background-color: black;
-    margin: 0 10%;
-    flex-wrap: wrap;
-}
+/* Nav bar styling: */
 
-h1 {
+.heading {
     color: #A533FF;
-}
-
-nav {
-    background-color: black;
-    display: flex;
-    justify-content: space-around;
-    gap: 5em;
 }
 
 #nav-links {
@@ -44,11 +30,29 @@ nav {
     color: #DDBBFF;
 }
 
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: black;
+    margin: 0 10%;
+    flex-wrap: wrap;
+}
+
+nav {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    gap: 5em;
+}
+
 .sub-heading {
     color: #FF7700;
     font-size: 1.2rem;
     margin: auto;
 }
+
+/* Main content styling: */
 
 .landing-intro {
     display: flex;
@@ -66,16 +70,6 @@ nav {
     margin: auto;
 }
 
-.flex-footer {
-    background-color: black;
-    display: flex;
-    width: 100%;
-    text-align: center;
-    color: #A533FF;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
 .landing-background {
     margin: auto;
     width: 60vw;
@@ -89,14 +83,14 @@ nav {
     opacity: 0.5;
 }
 
+/* Nav border panel */
+
 .panel-wrapper-top {
     display: flex;
     gap: 0.5rem;
     justify-content: center;
     width: 100%;
 }
-
-/* LCARS nav border panel, takes up 74vw */
 
 .border-bottom1 {
     height: 1.8vh;
@@ -128,7 +122,13 @@ nav {
     background-color: #DD4444;
 }
 
-/* LCARS footer border panel, takes up 74vw */
+/* LCARS footer border panel */
+
+.panel-wrapper-bottom {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+}
 
 .border-top1 {
     height: 1.8vh;
@@ -160,8 +160,12 @@ nav {
     background-color: #FFAA90;
 }
 
-.panel-wrapper-bottom {
+footer {
+    background-color: black;
     display: flex;
-    gap: 0.5rem;
+    width: 100%;
+    text-align: center;
+    color: #A533FF;
+    flex-wrap: wrap;
     justify-content: center;
 }
