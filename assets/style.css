@@ -66,11 +66,9 @@ nav {
     margin: auto;
 }
 
-footer {
+.flex-footer {
     background-color: black;
     display: flex;
-    position: absolute;
-    bottom: 0;
     width: 100%;
     text-align: center;
     color: #A533FF;
