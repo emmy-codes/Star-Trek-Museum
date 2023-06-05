@@ -2,7 +2,6 @@ body {
     background-color: black;
     font-family: 'Antonio', sans-serif;
     margin: 0;
-    overflow: scroll;
 }
 
 h1 {
@@ -87,6 +86,36 @@ footer {
 
 .border-bottom5 {
     height: 1.8vh;
-    width: 20vw;
+    width: 3vw;
     background-color: #DD4444;
+}
+
+.border-top1 {
+    height: 1.8vh;
+    width: 40vw;
+    background-color: #DD4444;
+}
+
+.border-top2 {
+    height: 1.8vh;
+    width: 2vw;
+    background-color: #FFAA90;
+}
+
+.border-top3 {
+    height: 0.6vh;
+    width: 10vw;
+    background-color: #DD4444;
+}
+
+.border-top4 {
+    height: 1.8vh;
+    width: 10vw;
+    background-color: #CC88FF;
+}
+
+.border-top5 {
+    height: 1.8vh;
+    width: 3vw;
+    background-color: #FFAA90;
 }
