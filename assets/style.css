@@ -19,6 +19,7 @@ body {
     align-items: center;
     background-color: black;
     margin: 0 10%;
+    flex-wrap: wrap;
 }
 
 h1 {
@@ -34,15 +35,17 @@ nav {
 
 #nav-links {
     list-style-type: none;
+    display: flex;
+    gap: 1em;
 }
 
 #nav-links a {
     text-decoration: none;
-    color: #A533FF;
+    color: #DDBBFF;
 }
 
 .sub-heading {
-    color: #FFAA90;
+    color: #FF7700;
     font-size: 1.2rem;
     margin: auto;
 }
@@ -64,6 +67,7 @@ nav {
 }
 
 footer {
+    background-color: black;
     display: flex;
     position: absolute;
     bottom: 0;
@@ -84,12 +88,14 @@ footer {
     left: 0;
     right: 0;
     z-index: -10;
+    opacity: 0.5;
 }
 
 .panel-wrapper-top {
     display: flex;
     gap: 0.5rem;
     justify-content: center;
+    width: 100%;
 }
 
 /* LCARS nav border panel, takes up 74vw */
