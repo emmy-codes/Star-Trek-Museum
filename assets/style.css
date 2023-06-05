@@ -17,6 +17,10 @@ body {
     flex-direction: column;
     gap: 4rem;
     position: relative;
+    max-width: 1024px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
 }
 
 /* Nav bar styling: */
@@ -42,6 +46,7 @@ header {
     align-items: center;
     background-color: black;
     flex-wrap: wrap;
+    width: 100%;
 }
 
 nav {
@@ -65,11 +70,12 @@ nav {
     gap: 3em;
     color: #FFAA90;
     font-size: 1.2rem;
+    width: 100%;
 }
 
 .landing-background {
     margin: auto;
-    width: 60vw;
+    width: 80%;
     height: 100vh;
     display: block;
     position: absolute;
@@ -125,35 +131,36 @@ nav {
     display: flex;
     gap: 0.5rem;
     justify-content: center;
+    width: 100%;
 }
 
 .border-top1 {
     height: 1.8vh;
-    width: 40vw;
+    width: 50%;
     background-color: #DD4444;
 }
 
 .border-top2 {
     height: 1.8vh;
-    width: 3vw;
+    width: 4%;
     background-color: #FFAA90;
 }
 
 .border-top3 {
     height: 0.6vh;
-    width: 14vw;
+    width: 16%;
     background-color: #DD4444;
 }
 
 .border-top4 {
     height: 1.8vh;
-    width: 12vw;
+    width: 22%;
     background-color: #CC88FF;
 }
 
 .border-top5 {
     height: 1.8vh;
-    width: 5vw;
+    width: 5%;
     background-color: #FFAA90;
 }
 
@@ -163,8 +170,9 @@ footer {
     width: 100%;
     text-align: center;
     color: #A533FF;
-    flex-wrap: wrap;
     justify-content: center;
     position: fixed;
     bottom: 0;
+    flex-wrap: wrap;
+    max-width: 1024px;
 }
