@@ -29,6 +29,10 @@ body {
     color: #A533FF;
 }
 
+.heading-wrapper {
+    padding: 1rem;
+}
+
 #nav-links {
     list-style-type: none;
     display: flex;
@@ -41,7 +45,7 @@ body {
 }
 
 #nav-links a:hover {
-    color:#A533FF;
+    color: #A533FF;
 }
 
 header {
@@ -51,6 +55,8 @@ header {
     background-color: black;
     flex-wrap: wrap;
     width: 100%;
+    /* padding: 1%; */
+    justify-content: space-between;
 }
 
 nav {
