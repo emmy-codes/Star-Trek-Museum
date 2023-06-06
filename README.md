@@ -215,11 +215,13 @@ HTML, CSS
 
 #### Programs
 
-Github for uploading my code and having a place to create my live site via Github Pages.
+[Github](https://github.com/) for uploading my code and having a place to create my live site via Github Pages.
 
-Balsamiq for my wireframe designs.
+[Balsamiq](https://balsamiq.com/) for my wireframe designs.
 
-Google Fonts for finding a replacement font that everyone would have access to.
+[Google Fonts](https://fonts.google.com/) for finding a replacement font that everyone would have access to.
+
+[Convertico.co](https://convertio.co/) for converting images to webp.
 
 (( Make sure to include things like git, GitHub, the program used to make your wireframes, any programs used to compress your images, did you use a CSS framework like Bootstrap? If so add it here (add the version used))
 
@@ -269,6 +271,6 @@ The starships are from [PNGfind](https://www.pngfind.com/freepng/star-trek/)
 
 ###  Acknowledgments
 
-Thank you to my partner for his insight on media queries and guidance on the best practices for writing instructions on forking and cloning
+Thank you to my partner for his insight on media queries and guidance on the best practices for writing instructions on forking and cloning, as well as assistance for helping me adjust my site responsiveness to be less of a headache in the future (specifically: he helped me change my panel sizings from vh to % as well as using the newly implemented dvh to the body, which will apparently future proof my code as well as improve ease of responsive design).
 
 Thank you to my classmates on Slack for assisting when I had questions regarding HTML
