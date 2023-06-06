@@ -10,7 +10,6 @@ body {
     background-color: black;
     font-family: 'Antonio', sans-serif;
     font-weight: 400;
-    margin: 0;
     padding: 0 1.5rem;
     height: 100dvh;
     display: flex;
@@ -19,7 +18,7 @@ body {
     position: relative;
     max-width: 1024px;
     align-items: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     margin: 0 auto;
 }
 
