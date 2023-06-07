@@ -14,11 +14,8 @@ body {
     height: 100dvh;
     display: flex;
     flex-direction: column;
-    /* gap: 4rem; */
-    /* position: relative; */
     max-width: 1024px;
     align-items: center;
-    /* flex-wrap: nowrap; */
     margin: 0 auto;
 }
 
@@ -47,6 +44,10 @@ body {
     color: #A533FF;
 }
 
+main {
+    width: 100dvw;
+}
+
 header {
     display: flex;
     flex-direction: row;
@@ -55,7 +56,6 @@ header {
     flex-wrap: wrap;
     width: 100%;
     justify-content: space-between;
-    /* position: fixed; */
     max-width: 1024px;
 }
 
