@@ -44,10 +44,6 @@ body {
     color: #A533FF;
 }
 
-main {
-    width: 100dvw;
-}
-
 header {
     display: flex;
     flex-direction: row;
@@ -194,6 +190,14 @@ footer {
 footer a {
     text-decoration: none;
     color:#7788FF;
+}
+
+.credits-anchor {
+    margin-left: 0.5rem;
+}
+
+.credits-anchor:hover {
+    color:#FF7700;
 }
 
 /* responsive media queries */
