@@ -190,10 +190,7 @@ footer {
 footer a {
     text-decoration: none;
     color:#7788FF;
-}
-
-.credits-anchor {
-    margin-left: 0.5rem;
+    margin-left: 0.5rem
 }
 
 .credits-anchor:hover {
@@ -250,4 +247,12 @@ footer a {
 
 .crew-image-right {
     max-width: 20vw;
+}
+
+.introduction-text {
+    font-size: 1.5em;
+}
+
+.crew-voyager-tng {
+    /* display: flex; */
 }
