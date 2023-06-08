@@ -251,8 +251,14 @@ footer a {
 
 .introduction-text {
     font-size: 1.5em;
+    text-align: center;
 }
 
-.crew-voyager-tng {
-    /* display: flex; */
+.crew-wrappers {
+    display: flex;
+    gap: 1em;
+}
+
+.crew-title-left, .crew-title-right {
+    margin-bottom: 1rem;
 }
