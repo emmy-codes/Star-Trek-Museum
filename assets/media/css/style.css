@@ -241,3 +241,13 @@ footer a {
         font-size: 0.6rem;
     }
 }
+
+/* crew exhibition page */
+
+.crew-image-left {
+    max-width: 20vw;
+}
+
+.crew-image-right {
+    max-width: 20vw;
+}
