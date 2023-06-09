@@ -189,17 +189,61 @@ footer {
 
 footer a {
     text-decoration: none;
-    color:#7788FF;
+    color: #7788FF;
     margin-left: 0.5rem
 }
 
 .credits-anchor:hover {
-    color:#FF7700;
+    color: #FF7700;
+}
+
+/* crew exhibition page */
+
+.crew-image-left,
+.crew-image-right {
+    max-width: 20vw;
+    object-fit: contain;
+    align-self: flex-start;
+}
+
+.introduction-text {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.crew-wrappers {
+    display: flex;
+    gap: 1em;
+}
+
+.crew-title-left,
+.crew-title-right {
+    margin-bottom: 1rem;
+}
+
+/* form submission page */
+
+span {
+    margin-top: 5vh;
+    padding: 1%;
+    color: white;
+    width: 30vw;
+    border: #DD4444 solid 2px;
+    border-radius: 5px;
 }
 
 /* responsive media queries */
 
 @media only screen and (max-width: 600px) {
+    .crew-wrappers {
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .crew-image-left,
+    .crew-image-right {
+        max-width: 30vw;
+    }
 
     .heading-wrapper {
         display: flex;
@@ -237,39 +281,4 @@ footer a {
     footer {
         font-size: 0.6rem;
     }
-}
-
-/* crew exhibition page */
-
-.crew-image-left {
-    max-width: 20vw;
-}
-
-.crew-image-right {
-    max-width: 20vw;
-}
-
-.introduction-text {
-    font-size: 1.5em;
-    text-align: center;
-}
-
-.crew-wrappers {
-    display: flex;
-    gap: 1em;
-}
-
-.crew-title-left, .crew-title-right {
-    margin-bottom: 1rem;
-}
-
-/* form submission page */
-
-span {
-    margin-top:5vh;
-    padding: 1%;
-    color: white;
-    width: 30vw;
-    border: #DD4444 solid 2px;
-    border-radius: 5px;
 }
