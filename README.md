@@ -252,7 +252,9 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 ### Code Used
 
-I currently have no plans to use code from elsewhere in order to challenge my own understanding of writing HTML/CSS, although I have taken inspiration and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
+Thankyou to ![MDN form guide](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form) for guiding me through making a form for my site
+
+I have taken inspiration and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
 
 ### Content
 
