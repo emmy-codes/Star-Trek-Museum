@@ -117,17 +117,17 @@ During my research I came across a favicon of a Star Trek badge that I plan on u
 
 This page will have 3 of the many different Trek crews due to time constraints, so I went researching to find 3 images as similar to oneanother as possible. Luckily through [IMDB](https://www.imdb.com/ "IMDB main page") each of the 3 Trek pages have identical crew artwork which will help improve the UX/UI of the page. On this page, there is the possibility to link the other pages onto here. (in the blurb for one crew there could be links to the starship exhibition)
 
-![Crew of Star Trek: Voyager](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/999e3d8e-5de5-43a3-ad79-a08129b2cdc2)
-![Crew of Star Trek: Deep Space Nine](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/969309a6-0c91-4fe6-b1ee-28b8e438ada3)
-![Crew of Star Trek: The Next Generation](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/79987d51-d90b-4b87-abac-499051bc2a75)
+![Crew of Star Trek: Voyager](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/409700fe-f0f5-4b30-b586-c03bed0e67cf)
+![Crew of Star Trek: Deep Space Nine](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/5ca328ed-7bd0-4127-8187-b7fdd2f44571)
+![Crew of Star Trek: The Next Generation](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/cb21d4d4-a48c-4b91-95c5-96c3b93fd4f7)
 
 #### Exhibition: Starships
 
 Similar to the crews page there will be details on the ship exhibition at the museum:
 
-![Starship Voyager](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/7fa1ab64-6bf5-4b36-8976-ab70577c9b7d)
-![Space station Deep Space Nine](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/f310ba4f-dd88-4c56-9861-1ca1d0acd66d)
-![Starship Enterprise](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/1331361a-e1f1-4a47-b24b-7f2f1370496b)
+![Starship Voyager](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/10d119f9-8701-4bb0-92e0-74f25b9ce214)
+![Space station Deep Space Nine](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/0405c7d2-a51e-4d1a-bdc6-ff5c95315814)
+![Starship Enterprise](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/ef29e226-c432-4d76-97c2-6f910d7c47c7)
 
 After speaking with my mentor I discovered that webp formats would improve the loading time and overall performance of my page, I went back and converted my images from png/jpg.
 
@@ -209,15 +209,17 @@ HTML, CSS
 
 #### Programs
 
-![Github](https://github.com/) for uploading my code and having a place to create my live site via Github Pages.
+[Github](https://github.com/) for uploading my code and having a place to create my live site via Github Pages.
 
-![Balsamiq](https://balsamiq.com/) for my wireframe designs.
+[Balsamiq](https://balsamiq.com/) for my wireframe designs.
 
-![Google Fonts](https://fonts.google.com/) for finding a replacement font that everyone would have access to.
+[Google Fonts](https://fonts.google.com/) for finding a replacement font that everyone would have access to.
 
-![Convertico.co](https://convertio.co/) for converting images to webp.
+[Convertico.co](https://convertio.co/) for converting images to webp.
 
-![PicResize](https://picresize.com/) for resizing images.
+[PicResize](https://picresize.com/) for resizing images.
+
+[Squoosh](https://squoosh.app/) for resizing images for my ReadMe.
 
 ## Deployment & Local Development
 
