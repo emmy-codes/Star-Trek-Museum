@@ -262,3 +262,14 @@ footer a {
 .crew-title-left, .crew-title-right {
     margin-bottom: 1rem;
 }
+
+/* form submission page */
+
+span {
+    margin-top:5vh;
+    padding: 1%;
+    color: white;
+    width: 30vw;
+    border: #DD4444 solid 2px;
+    border-radius: 5px;
+}
