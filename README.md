@@ -111,28 +111,23 @@ During my research I came across a favicon of a Star Trek badge that I plan on u
 
 #### Homepage
 
-
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/58808344-6591-4ad4-ac8b-6b0f8a1f4f09" width="" height="" alt="Star Trek Pride selection of starships with various pride flags">
+![Star Trek Pride selection of starships with various pride flags](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/58808344-6591-4ad4-ac8b-6b0f8a1f4f09)
 
 #### Page: Star Trek Crews
 
 This page will have 3 of the many different Trek crews due to time constraints, so I went researching to find 3 images as similar to oneanother as possible. Luckily through [IMDB](https://www.imdb.com/ "IMDB main page") each of the 3 Trek pages have identical crew artwork which will help improve the UX/UI of the page. On this page, there is the possibility to link the other pages onto here. (in the blurb for one crew there could be links to the starship exhibition)
 
-<div align="center">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/999e3d8e-5de5-43a3-ad79-a08129b2cdc2" width="250" height="300" alt="Crew of Star Trek: Voyager">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/969309a6-0c91-4fe6-b1ee-28b8e438ada3" width="250" height="300" alt="Crew of Star Trek: Deep Space Nine">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/79987d51-d90b-4b87-abac-499051bc2a75" width="250" height="300" alt="Crew of Star Trek: The Next Generation">
-</div>
+![Crew of Star Trek: Voyager](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/409700fe-f0f5-4b30-b586-c03bed0e67cf)
+![Crew of Star Trek: Deep Space Nine](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/5ca328ed-7bd0-4127-8187-b7fdd2f44571)
+![Crew of Star Trek: The Next Generation](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/cb21d4d4-a48c-4b91-95c5-96c3b93fd4f7)
 
 #### Exhibition: Starships
 
 Similar to the crews page there will be details on the ship exhibition at the museum:
 
-<div align="center">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/7fa1ab64-6bf5-4b36-8976-ab70577c9b7d" width="300" height="250" alt="Starship Voyager">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/f310ba4f-dd88-4c56-9861-1ca1d0acd66d" width="300" height="250" alt="Space station Deep Space Nine">
- <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/1331361a-e1f1-4a47-b24b-7f2f1370496b" width="300" height="250" alt="Starship Enterprise">
-</div>
+![Starship Voyager](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/10d119f9-8701-4bb0-92e0-74f25b9ce214)
+![Space station Deep Space Nine](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/0405c7d2-a51e-4d1a-bdc6-ff5c95315814)
+![Starship Enterprise](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/ef29e226-c432-4d76-97c2-6f910d7c47c7)
 
 After speaking with my mentor I discovered that webp formats would improve the loading time and overall performance of my page, I went back and converted my images from png/jpg.
 
@@ -141,20 +136,24 @@ After speaking with my mentor I discovered that webp formats would improve the l
 My wireframes accidentally went rather hi-fi because I wanted to see how the background images and the strong LCARS colour scheme was going to work, but I finished the estimated design for desktop, tablet and mobile for the homepage, crew exhibition, starship exhibition, contact page and  404 error page.
 
 #### Homepage
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/5811ad4a-bfd6-44db-91be-8d49feb09a0a" width="" height="" alt="Homepage wireframe design">
+
+![Homepage wireframe design](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/5811ad4a-bfd6-44db-91be-8d49feb09a0a)
 
 #### Crews
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/b213d5b8-7778-444e-bacc-3d87006f21da" width="" height="" alt="Crew page wireframe design">
+
+![Crew page wireframe design](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/b213d5b8-7778-444e-bacc-3d87006f21da)
 
 #### Starships
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/04201ee9-356b-4702-84f0-a781976a3058" width="" height="" alt="Starships wireframe design">
+
+![Starships wireframe design](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/04201ee9-356b-4702-84f0-a781976a3058)
 
 #### Contact
 
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/da2f7882-beec-4049-afba-d6a5edcf6c03" width="" height="" alt="Contact page wireframe design">
+![Contact page wireframe design](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/da2f7882-beec-4049-afba-d6a5edcf6c03)
 
 #### 404
-<img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d7632cb9-2617-4df9-91f5-f78e99276f74" width="" height="" alt="404 page wireframe design">
+
+![404 page wireframe design](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d7632cb9-2617-4df9-91f5-f78e99276f74)
 
 ## Features
 
@@ -220,6 +219,8 @@ HTML, CSS
 
 [PicResize](https://picresize.com/) for resizing images.
 
+[Squoosh](https://squoosh.app/) for resizing images for my ReadMe.
+
 ## Deployment & Local Development
 
 👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
@@ -252,16 +253,18 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 ### Code Used
 
-I currently have no plans to use code from elsewhere in order to challenge my own understanding of writing HTML/CSS, although I have taken inspiration and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
+Thankyou to ![MDN form guide](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form) for guiding me through making a form for my site
+
+I have taken inspiration and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
 
 ### Content
 
-I am planning to use [OpenAI](https://chat.openai.com/) to create most of the text for me so I can focus my time on practicing with the code.
+I am planning to use ![OpenAI](https://chat.openai.com/) to create most of the text for me so I can focus my time on practicing with the code.
 
 ###  Media
 
 The crew images are sourced from [IMDB](https://www.imdb.com/)
-The starships are from [PNGfind](https://www.pngfind.com/freepng/star-trek/)
+The starships are from ![PNGfind](https://www.pngfind.com/freepng/star-trek/)
 
 
 ###  Acknowledgments
