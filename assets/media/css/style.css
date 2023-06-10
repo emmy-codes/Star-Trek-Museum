@@ -220,8 +220,6 @@ span {
     width: 30vw;
     border: #DD4444 solid 2px;
     border-radius: 5px;
-
-
 }
 
 .contact-wrapper {
@@ -251,6 +249,23 @@ span {
     justify-content: space-between;
     align-items: center;
     margin: 1rem;
+}
+
+.form-wrapper {
+    background-color: #FFAA90;
+    color: black;
+    padding: 1rem;
+    border-radius: 25px;
+    border: solid 3px #DD4444;
+}
+
+.form-wrapper li {
+    list-style-type: none;
+}
+
+.image-form img {
+    border: solid 3px #DD4444;
+    border-radius: 25px;
 }
 
 .engage-text {
