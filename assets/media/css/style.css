@@ -228,7 +228,10 @@ span {
     color: #FF7700;
     margin: 1rem;
     text-align: center;
-    gap: 1rem;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
 }
 
 .contact-wrapper,
@@ -236,10 +239,28 @@ span {
     border: none;
 }
 
+.contact-icons {
+    margin: 1em;
+}
+
 .phone,
 .address,
 .email {
     max-width: 5vw;
+    margin: 1rem 0;
+}
+
+.email-text {
+    padding-bottom: 1rem;
+}
+
+.map {
+    border: #DD4444 solid 3px;
+    border-radius: 25px;
+}
+
+iframe {
+    max-width: 25vw;
 }
 
 .image-form {
@@ -257,6 +278,7 @@ span {
     padding: 1rem;
     border-radius: 25px;
     border: solid 3px #DD4444;
+    max-width: 25vw;
 }
 
 .form-wrapper li {
