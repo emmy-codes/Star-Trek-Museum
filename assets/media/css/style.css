@@ -228,12 +228,17 @@ span {
 }
 
 #comments {
-    width: 10rem;
+    width: 90%;
+    padding: 5%;
 }
 
 .form-titles {
     margin: 0.5rem;
     font-weight: 700;
+}
+
+#name, #email, #comments {
+    padding: 2%;
 }
 
 .contact-wrapper {
@@ -279,15 +284,18 @@ span {
 .map {
     border: #DD4444 solid 3px;
     border-radius: 25px;
-    width: 60vw;
+    width: 60%;
     height: 30vh;
+    display: block;
 }
 
 .form-button {
     background-color: #7788FF;
     border-radius: 25px;
-    padding: 0.3rem;
+    padding: 0.5rem;
     border: 2px solid #88CCFF;
+    font-weight: 700;
+    font-size: 1rem;
 }
 
 .form-button:hover {
@@ -308,7 +316,8 @@ span {
     padding: 1rem;
     border-radius: 25px;
     border: solid 3px #DD4444;
-    width: 35vw;
+    max-width: 40%;
+    flex-grow: 1;
 }
 
 .form-wrapper li {
