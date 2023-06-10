@@ -123,19 +123,6 @@ header {
     padding-top: 3rem;
 }
 
-.landing-background {
-    margin: auto;
-    width: 60%;
-    height: 100vh;
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: -10;
-    opacity: 0.5;
-}
-
 /* LCARS footer border panel */
 
 .panel-wrapper-bottom {
