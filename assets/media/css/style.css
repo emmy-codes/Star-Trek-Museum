@@ -111,6 +111,9 @@ header {
 /* Main content styling: */
 
 .landing-intro {
+    background: url(https://apod.nasa.gov/apod/image/2306/Marte-M44_230603_800.jpg) center no-repeat;
+    background-color: darkgrey;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     gap: 3em;
@@ -234,8 +237,40 @@ span {
 
 }
 
-.phone, .address, .email {
+.contact-wrapper {
+    display: flex;
+    flex-direction: row;
+    color: #FF7700;
+    margin: 1rem;
+    text-align: center;
+    gap: 1rem;
+}
+
+.contact-wrapper,
+span {
+    border: none;
+}
+
+.phone,
+.address,
+.email {
     max-width: 5vw;
+}
+
+.image-form {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem;
+}
+
+.engage-text {
+    color: #DD4444;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2.5rem;
 }
 
 /* responsive media queries */
