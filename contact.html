@@ -67,12 +67,7 @@
     <main class="landing-intro">
       <h1 class="get-in-touch">Get in touch</h1>
       <section class="beam-me-up">
-        <h2 class="engage-text">"Engage!"</h2>
         <div class="image-form">
-          <img
-            src="https://upload.wikimedia.org/wikipedia/en/0/01/Star_trek_first_contact_poster.jpg"
-            alt=""
-          />
           <!-- Form including heading and subheading -->
           <section class="form-wrapper">
             <div>
@@ -82,57 +77,53 @@
 
             <form action="/form-submission.html" class="">
               <ul>
-                <li>
+                <li class="form-titles">
                   <label for="name">Name:</label>
                   <input type="text" id="name" />
                 </li>
-                <li>
+                <li class="form-titles">
                   <label for="email">Email:</label>
                   <input type="email" id="email" name="user_email" />
                 </li>
-                <li>
+                <li class="form-titles">
                   <label for="comments">Comments/questions:</label>
-                  <input type="text" name="comments" id="comments" />
+                  <textarea  type="text" name="comments" id="comments"></textarea>
                 </li>
               </ul>
-              <button type="submit">Submit</button>
+              <button type="submit" class="form-button">Submit</button>
             </form>
           </section>
-        </div>
-        <section class="contact-wrapper">
-          <div>
-            <div class="">
-              <img src="assets/media/commsbadge.webp" alt="" class="phone" />
-              <p class="phone-text">
-                <span>Phone:<br /> </span>1800-beam-me-up
-              </p>
-            </div>
-            <div class="">
-              <img src="assets/media/llap.webp" alt="" class="address" />
-              <p class="address-text">
-                <span class="contact-icons">Address:<br /> </span>Spacedock One,<br />
-                Earths Orbit<br />
-                Alpha Quadrant
-              </p>
-            </div>
-            <div class="">
-              <img src="assets/media/klingon.png" alt="" class="email" />
-              <p class="email-text">
-                <span>Email: <br /></span>resistanceisfutile@borgmail.com
-              </p>
-            </div>
-          </div>
-
           <!-- map -->
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4071.046517319114!2d18.070483814418008!3d59.32421740688529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d587e4c4a01%3A0xbdf97a9648763e36!2sThe%20Royal%20Palace!5e0!3m2!1sen!2sse!4v1686342739955!5m2!1sen!2sse"
-            width="600"
-            height="450"
             class="map"
             allowfullscreen=""
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"
           ></iframe>
+        </div>
+        <section class="contact-wrapper">
+            <div class="contact-details-wrapper">
+              <img src="assets/media/commsbadge.webp" alt="" class="phone" />
+              <p class="phone-text">
+                <span>Phone:<br /> </span>1800-beam-me-up
+              </p>
+            </div>
+            <div class="contact-details-wrapper">
+              <img src="assets/media/llap.webp" alt="" class="address" />
+              <p class="address-text">
+                <span class="contact-icons">Address:<br /> </span>Spacedock
+                One,<br />
+                Earths Orbit<br />
+                Alpha Quadrant
+              </p>
+            </div>
+            <div class="contact-details-wrapper">
+              <img src="assets/media/klingon.png" alt="" class="email" />
+              <p class="email-text">
+                <span>Email: <br /></span>resistanceisfutile@borgmail.com
+              </p>
+            </div>
         </section>
       </section>
     </main>

@@ -222,6 +222,20 @@ span {
     border-radius: 5px;
 }
 
+.get-in-touch {
+    margin: 2rem;
+    color: #DD4444;
+}
+
+#comments {
+    width: 10rem;
+}
+
+.form-titles {
+    margin: 0.5rem;
+    font-weight: 700;
+}
+
 .contact-wrapper {
     display: flex;
     flex-direction: row;
@@ -230,13 +244,20 @@ span {
     text-align: center;
     align-content: center;
     justify-content: space-between;
-    align-items: center;
-    margin-bottom: 5rem;
+    align-items: flex-start;
+    margin-bottom: 7rem;
+    margin-top: 5rem;
 }
 
 .contact-wrapper,
 span {
     border: none;
+}
+
+.contact-details-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .contact-icons {
@@ -248,6 +269,7 @@ span {
 .email {
     max-width: 5vw;
     margin: 1rem 0;
+    height: 5rem;
 }
 
 .email-text {
@@ -257,19 +279,27 @@ span {
 .map {
     border: #DD4444 solid 3px;
     border-radius: 25px;
+    width: 60vw;
+    height: 30vh;
 }
 
-iframe {
-    max-width: 25vw;
+.form-button {
+    background-color: #7788FF;
+    border-radius: 25px;
+    padding: 0.3rem;
+    border: 2px solid #88CCFF;
+}
+
+.form-button:hover {
+    filter: brightness(125%);
 }
 
 .image-form {
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: space-between;
     align-items: center;
     margin: 1rem;
+    gap: 2rem;
+    flex-direction: row;
 }
 
 .form-wrapper {
@@ -278,7 +308,7 @@ iframe {
     padding: 1rem;
     border-radius: 25px;
     border: solid 3px #DD4444;
-    max-width: 25vw;
+    width: 35vw;
 }
 
 .form-wrapper li {
