@@ -229,7 +229,7 @@ HTML, CSS
 
 ### Deployment
 
-Include instructions here on how to deploy your project. For your first project you will most likely be using GitHub Pages.
+To deploy this page I have used Github pages.
 
 ### Local Development
 
@@ -253,15 +253,13 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 ## Credits
 
-### Code Used
-
 Thankyou to ![MDN form guide](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form) for guiding me through making a form for my site
 
 I have taken inspiration and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
 
 ### Content
 
-I am planning to use ![OpenAI](https://chat.openai.com/) to create most of the text for me so I can focus my time on practicing with the code.
+I have used ![OpenAI](https://chat.openai.com/) to create most of the text for me so I can focus my time on practicing with the code. I wanted to write the content myself but there is far greater knowledge needed of Star Trek than I currently posess and I wanted to limit my time spent searching for a complete source to give me a basis to write my own work off.
 
 ###  Media
 
@@ -273,4 +271,4 @@ The starships are from ![PNGfind](https://www.pngfind.com/freepng/star-trek/)
 
 Thank you to my partner for his insight on media queries and guidance on the best practices for writing instructions on forking and cloning, as well as assistance for helping me adjust my site responsiveness to be less of a headache in the future (specifically: he helped me change my panel sizings from vh to % as well as using the newly implemented dvh to the body, which will apparently future proof my code as well as improve ease of responsive design).
 
-Thank you to my classmates on Slack for assisting when I had questions regarding HTML
+Thank you to my classmates on Slack for assisting when I had questions regarding HTML tags, how to export wireframes in Balsamiq, and overall feedback of my page. <3 
