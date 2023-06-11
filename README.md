@@ -157,7 +157,7 @@ My wireframes accidentally went rather hi-fi because I wanted to see how the bac
 
 ## Features
 
-My site comprises of 4 pages:
+My site comprises of 5 pages:
 
 The homepage, welcoming the user to the main page for the Star Trek Museum, introducing them to the project and informing them of what they can expect when visiting the museum. An image helps to break up the text portion to make it easier for the user to view the content without getting overwhelmed.
 
@@ -170,6 +170,8 @@ The Starships page features the large scale replica models available for viewing
 The get in touch page has the phone, address and email for contact, along with a form for those who prefer, and a map (to a fake/incorrect address).
 
 The 404 page (not counted in the 4 page site) has an image/gif of Captain Picard facepalming with a button link to get back to the homepage.
+
+A 5th page simply lets the user know their contact form has been submitted, which helps the user to stay on my website rather than being sent to Githubs default response.
 
 ### General features on each page
 
