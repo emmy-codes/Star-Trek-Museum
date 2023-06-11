@@ -295,7 +295,8 @@ span {
 }
 
 .form-button {
-    background-color: #7788FF;
+    background-color: black;
+    color: white;
     border-radius: 25px;
     padding: 0.5rem;
     border: 2px solid #88CCFF;
@@ -306,6 +307,10 @@ span {
 .form-button:hover {
     filter: brightness(125%);
 }
+
+/* .form-titles > label {
+    margin-bottom: 1rem;
+} */
 
 .image-form {
     display: flex;
@@ -382,12 +387,13 @@ span {
     }
 
     .heading {
-        font-size: 1.4rem;
+        font-size: 1.5rem;
     }
 
-    .sub-heading {
-        font-size: 0.8rem;
+    .sub-heading, #navigation-wrapper {
+        font-size: 1.1rem;
     }
+
 
     .landing-intro {
         font-size: 0.8rem;
