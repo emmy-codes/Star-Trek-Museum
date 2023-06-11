@@ -308,9 +308,9 @@ span {
     filter: brightness(125%);
 }
 
-/* .form-titles > label {
-    margin-bottom: 1rem;
-} */
+.form-titles > input, textarea {
+    margin: 0.5rem 0;
+}
 
 .image-form {
     display: flex;
