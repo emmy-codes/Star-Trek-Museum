@@ -124,9 +124,8 @@ header {
 
 /* Homepage styling */
 
-.homepage-text,
-img {
-    margin: 3rem;
+.homepage-text {
+    margin: 1rem;
 }
 
 .bottom-text {
@@ -199,11 +198,29 @@ footer a {
 
 /* crew exhibition page */
 
+section>h2 {
+    color: #DD4444;
+}
+
+.introduction-text {
+    color: #A533FF
+}
+
+.text-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
 .crew-image-left,
 .crew-image-right {
     max-width: 20vw;
     object-fit: contain;
     align-self: flex-start;
+}
+
+.tng {
+    padding-bottom: 5rem;
 }
 
 .introduction-text {
@@ -214,11 +231,22 @@ footer a {
 .crew-wrappers {
     display: flex;
     gap: 1em;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    margin: 1rem;
 }
 
 .crew-title-left,
 .crew-title-right {
-    margin-bottom: 1rem;
+    margin: 1rem;
+}
+
+.crew-title-right {
+    margin: 1rem;
+    color: #DD4444;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 /* form submission page */
