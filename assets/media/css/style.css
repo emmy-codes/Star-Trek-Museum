@@ -225,6 +225,8 @@ span {
 .get-in-touch {
     margin: 2rem;
     color: #DD4444;
+    text-align: center;
+    font-size: 3rem;
 }
 
 #comments {
@@ -237,8 +239,11 @@ span {
     font-weight: 700;
 }
 
-#name, #email, #comments {
+#name,
+#email,
+#comments {
     padding: 2%;
+    width: 100%;
 }
 
 .contact-wrapper {
@@ -354,6 +359,12 @@ span {
 /* responsive media queries */
 
 @media only screen and (max-width: 600px) {
+
+    #navigation-wrapper {
+        font-size: 0.8rem;
+        padding: 0 0 1rem 0;
+    }
+
     .crew-wrappers {
         align-items: center;
         flex-direction: column;
@@ -370,21 +381,12 @@ span {
         align-items: center;
     }
 
-    header {
-        flex-direction: column;
-    }
-
     .heading {
         font-size: 1.4rem;
     }
 
     .sub-heading {
         font-size: 0.8rem;
-    }
-
-    #navigation-wrapper {
-        font-size: 0.8rem;
-        padding: 0 0 1rem 0;
     }
 
     .landing-intro {
@@ -395,6 +397,31 @@ span {
 
     .panel-wrapper-bottom {
         font-size: 0.8em;
+    }
+
+    .contact-details-wrapper img {
+        height: 2rem;
+    }
+
+    .image-form {
+        flex-direction: column;
+        margin: 0;
+    }
+
+    .form-wrapper {
+        max-width: 95%;
+    }
+
+    .map {
+        width: 95%;
+    }
+
+    .contact-wrapper {
+        margin: 0 0 5rem 0;
+    }
+
+    header {
+        flex-direction: column;
     }
 
     footer {
