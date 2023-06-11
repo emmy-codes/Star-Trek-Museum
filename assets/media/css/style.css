@@ -116,11 +116,21 @@ header {
     background-size: cover;
     display: flex;
     flex-direction: column;
-    gap: 3em;
     color: #FFAA90;
     font-size: 1.2rem;
     width: 100%;
     padding-top: 3rem;
+}
+
+/* Homepage styling */
+
+.homepage-text,
+img {
+    margin: 3rem;
+}
+
+.bottom-text {
+    padding-bottom: 5rem;
 }
 
 /* LCARS footer border panel */
@@ -308,7 +318,8 @@ span {
     filter: brightness(125%);
 }
 
-.form-titles > input, textarea {
+.form-titles>input,
+textarea {
     margin: 0.5rem 0;
 }
 
@@ -370,6 +381,14 @@ span {
         padding: 0 0 1rem 0;
     }
 
+    .homepage-text {
+        margin: 1rem;
+    }
+
+    img {
+        margin: 0;
+    }
+
     .crew-wrappers {
         align-items: center;
         flex-direction: column;
@@ -390,7 +409,8 @@ span {
         font-size: 1.5rem;
     }
 
-    .sub-heading, #navigation-wrapper {
+    .sub-heading,
+    #navigation-wrapper {
         font-size: 1.1rem;
     }
 
