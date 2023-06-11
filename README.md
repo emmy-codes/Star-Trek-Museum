@@ -197,12 +197,6 @@ Some accessibility plans I have once I'm coding:
 * Adequate spacing on typography to ensure readability
 * Being mindful of colour contrast
 
-Have you used icons and added aria-labels to enable screen readers to understand these?
-Have you ensured your site meets the minimum contrast requirements?
-Have you chosen fonts that are dyslexia/accessible friendly?
-
-Code Institute have an amazing channel for all things accessibility (a11y-accessibility) I would highly recommend joining this channel as it contains a wealth of information about accessibility and what we can do as developers to be more inclusive.
-
 ## Technologies Used
 
 #### Languages
@@ -236,10 +230,12 @@ How I deployed my page to Github pages:
 1. Signed into ![Github](https://github.com/)
 2. Located my repository [Star Trek Museum](https://github.com/emmy-codes/Star-Trek-Museum)
 3. Clicked on Settings, then selected Pages from the left menu.
+4. Under Build and deployment I chose the source, which was the dropdown for Deploy from a branch.
+5. For Branch, I chose main/root from the dropdown and saved.
 
-![Screenshot of location of settings and pages on Github](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d3e85d2f-9c8a-4754-81de-3ca146a9caaa)
+![Screenshot of location of settings and pages on Github](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/a838481b-fd67-4d3d-8498-7e5388bf7732)
 
-
+After a few minutes, my site is ready to view.
 
 ### Local Development
 
