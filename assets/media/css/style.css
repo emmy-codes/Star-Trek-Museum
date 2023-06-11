@@ -112,7 +112,7 @@ header {
 
 .landing-intro {
     background: url(https://apod.nasa.gov/apod/image/2306/Marte-M44_230603_800.jpg) center no-repeat;
-    background-color: darkgrey;
+    background-color: black;
     background-size: cover;
     display: flex;
     flex-direction: column;
