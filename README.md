@@ -231,6 +231,16 @@ HTML, CSS
 
 To deploy this page I have used Github pages.
 
+How I deployed my page to Github pages:
+
+1. Signed into ![Github](https://github.com/)
+2. Located my repository [Star Trek Museum](https://github.com/emmy-codes/Star-Trek-Museum)
+3. Clicked on Settings, then selected Pages from the left menu.
+
+![Screenshot of location of settings and pages on Github](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d3e85d2f-9c8a-4754-81de-3ca146a9caaa)
+
+
+
 ### Local Development
 
 The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
