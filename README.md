@@ -157,7 +157,7 @@ My wireframes accidentally went rather hi-fi because I wanted to see how the bac
 
 ## Features
 
-My site comprises of 4 pages:
+My site comprises of 5 pages:
 
 The homepage, welcoming the user to the main page for the Star Trek Museum, introducing them to the project and informing them of what they can expect when visiting the museum. An image helps to break up the text portion to make it easier for the user to view the content without getting overwhelmed.
 
@@ -170,6 +170,8 @@ The Starships page features the large scale replica models available for viewing
 The get in touch page has the phone, address and email for contact, along with a form for those who prefer, and a map (to a fake/incorrect address).
 
 The 404 page (not counted in the 4 page site) has an image/gif of Captain Picard facepalming with a button link to get back to the homepage.
+
+A 5th page simply lets the user know their contact form has been submitted, which helps the user to stay on my website rather than being sent to Githubs default response.
 
 ### General features on each page
 
@@ -227,7 +229,17 @@ HTML, CSS
 
 ### Deployment
 
-Include instructions here on how to deploy your project. For your first project you will most likely be using GitHub Pages.
+To deploy this page I have used Github pages.
+
+How I deployed my page to Github pages:
+
+1. Signed into ![Github](https://github.com/)
+2. Located my repository [Star Trek Museum](https://github.com/emmy-codes/Star-Trek-Museum)
+3. Clicked on Settings, then selected Pages from the left menu.
+
+![Screenshot of location of settings and pages on Github](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d3e85d2f-9c8a-4754-81de-3ca146a9caaa)
+
+
 
 ### Local Development
 
@@ -251,15 +263,13 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 ## Credits
 
-### Code Used
-
 Thankyou to ![MDN form guide](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form) for guiding me through making a form for my site
 
 I have taken inspiration and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
 
 ### Content
 
-I am planning to use ![OpenAI](https://chat.openai.com/) to create most of the text for me so I can focus my time on practicing with the code.
+I have used ![OpenAI](https://chat.openai.com/) to create most of the text for me so I can focus my time on practicing with the code. I wanted to write the content myself but there is far greater knowledge needed of Star Trek than I currently posess and I wanted to limit my time spent searching for a complete source to give me a basis to write my own work off.
 
 ###  Media
 
@@ -271,4 +281,4 @@ The starships are from ![PNGfind](https://www.pngfind.com/freepng/star-trek/)
 
 Thank you to my partner for his insight on media queries and guidance on the best practices for writing instructions on forking and cloning, as well as assistance for helping me adjust my site responsiveness to be less of a headache in the future (specifically: he helped me change my panel sizings from vh to % as well as using the newly implemented dvh to the body, which will apparently future proof my code as well as improve ease of responsive design).
 
-Thank you to my classmates on Slack for assisting when I had questions regarding HTML
+Thank you to my classmates on Slack for assisting when I had questions regarding HTML tags, how to export wireframes in Balsamiq, and overall feedback of my page. <3 
