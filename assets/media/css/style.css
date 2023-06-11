@@ -420,6 +420,7 @@ textarea {
     .crew-wrappers {
         align-items: center;
         flex-direction: column;
+        padding-bottom: 4rem;
     }
 
     .crew-image-left,
@@ -435,6 +436,10 @@ textarea {
 
     .heading {
         font-size: 1.5rem;
+    }
+
+    .tng {
+        padding-bottom: 0;
     }
 
     .sub-heading,
