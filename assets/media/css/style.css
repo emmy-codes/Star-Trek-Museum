@@ -210,13 +210,17 @@ section>h2 {
     display: flex;
     flex-direction: column;
     gap: 2rem;
+    width: calc(80% - 0.5em);
 }
 
 .crew-image-left,
 .crew-image-right {
-    max-width: 20vw;
     object-fit: contain;
-    align-self: flex-start;
+    width: calc(20% - 0.5em);
+}
+
+.crew-image-right {
+    order: 3;
 }
 
 .tng {
@@ -232,9 +236,8 @@ section>h2 {
     display: flex;
     gap: 1em;
     align-items: flex-start;
-    flex-wrap: nowrap;
-    flex-direction: row;
     margin: 1rem;
+    flex-wrap: wrap;
 }
 
 .crew-title-left,
@@ -245,8 +248,8 @@ section>h2 {
 .crew-title-right {
     margin: 1rem;
     color: #DD4444;
-    display: flex;
-    flex-direction: row-reverse;
+    width: calc(100% - 2rem);
+    text-align: right;
 }
 
 /* form submission page */
@@ -421,11 +424,6 @@ textarea {
         align-items: center;
         flex-direction: column;
         padding-bottom: 4rem;
-    }
-
-    .crew-image-left,
-    .crew-image-right {
-        max-width: 30vw;
     }
 
     .heading-wrapper {
