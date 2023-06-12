@@ -11,12 +11,13 @@ body {
     font-family: 'Antonio', sans-serif;
     font-weight: 400;
     padding: 0 1.5rem;
-    height: 100dvh;
+    min-height: 100dvh;
     display: flex;
     flex-direction: column;
     max-width: 1024px;
     align-items: center;
     margin: 0 auto;
+    padding-bottom: 2rem;
 }
 
 /* Nav bar styling: */
@@ -221,10 +222,6 @@ section>h2 {
 
 .crew-image-right {
     order: 3;
-}
-
-.tng {
-    padding-bottom: 5rem;
 }
 
 .introduction-text {
@@ -434,10 +431,6 @@ textarea {
 
     .heading {
         font-size: 1.5rem;
-    }
-
-    .tng {
-        padding-bottom: 0;
     }
 
     .sub-heading,
