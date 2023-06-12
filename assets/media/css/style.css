@@ -193,18 +193,18 @@ footer a {
     margin-left: 0.5rem
 }
 
+/* highlighting credits link on footer on mouseover */
+
 .credits-anchor:hover {
     color: #FF7700;
 }
 
 /* crew exhibition page */
 
-section>h2 {
-    color: #DD4444;
-}
-
 .introduction-text {
-    color: #A533FF
+    color: #A533FF;
+    font-size: 1.5em;
+    text-align: center;
 }
 
 .text-wrapper {
@@ -212,6 +212,10 @@ section>h2 {
     flex-direction: column;
     gap: 2rem;
     width: calc(80% - 0.5em);
+}
+
+.bottom-wrapper {
+    padding-bottom: 2rem;
 }
 
 .crew-image-left,
@@ -222,11 +226,6 @@ section>h2 {
 
 .crew-image-right {
     order: 3;
-}
-
-.introduction-text {
-    font-size: 1.5em;
-    text-align: center;
 }
 
 .crew-wrappers {
@@ -240,11 +239,14 @@ section>h2 {
 .crew-title-left,
 .crew-title-right {
     margin: 1rem;
+    color: #DD4444;
+}
+
+section {
+    margin: 1rem;
 }
 
 .crew-title-right {
-    margin: 1rem;
-    color: #DD4444;
     width: calc(100% - 2rem);
     text-align: right;
 }
