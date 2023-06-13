@@ -200,7 +200,7 @@ footer a {
     color: #A533FF;
     font-size: 1.5em;
     text-align: center;
-    padding-top: 1rem;  
+    padding: 2rem;  
 }
 
 .text-wrapper {
@@ -259,10 +259,11 @@ span {
 }
 
 .get-in-touch {
-    margin: 2rem;
+    margin: 1.5rem;
     color: #DD4444;
     text-align: center;
     font-size: 3rem;
+    color:#A533FF;
 }
 
 #comments {
@@ -282,16 +283,19 @@ span {
     width: 100%;
 }
 
+.beam-me-up {
+    margin-top: 0;
+}
+
 .contact-wrapper {
     display: flex;
     flex-direction: row;
     color: #FF7700;
-    margin: 1rem;
     text-align: center;
     align-content: center;
     justify-content: space-between;
     align-items: flex-start;
-    /* margin: 2rem; */
+    margin: 2rem;
 }
 
 .contact-wrapper,
@@ -351,7 +355,6 @@ textarea {
 .image-form {
     display: flex;
     align-items: center;
-    margin: 1rem;
     gap: 2rem;
     flex-direction: row;
 }
