@@ -54,6 +54,8 @@ The Star Trek Museum is an imaged museum detailing the exhibitions available for
   * [Media](#media)
   * [Acknowledgments](#acknowledgments)
 
+* [Retro/reflections](#retro-reflections)
+
 ---
 
 ## User Experience (UX)
@@ -183,9 +185,9 @@ The tabs have a favicon of the Star Trek comms badge mentioned in the ### Imager
 
 ### Future Implementations
 
-In the future I would like to have the background as a twinkling star scene, but without JavaScript that would be an excessively tedious manual positioning of dozens of stars.
-
-I would also like to have the site look more like LCARS panels in order to appeal more to Trekkies, but shaping those panels would require more time and practice as of now.
+1. I would like to have the background as a twinkling star scene, but without JavaScript that would be an excessively tedious manual positioning of dozens of stars. 
+2. I would also like to have the site look more like LCARS panels in order to appeal more to Trekkies, but shaping those panels would require more time and practice as of now.
+3. Lastly, I would like to refactor my CSS to include root variables to help future-proof the project as it would make changing the colours of my LCARS panels much easier.
 
 ### Accessibility
 
@@ -278,3 +280,7 @@ The starships are from ![PNGfind](https://www.pngfind.com/freepng/star-trek/)
 Thank you to my partner for his insight on media queries and guidance on the best practices for writing instructions on forking and cloning, as well as assistance for helping me adjust my site responsiveness to be less of a headache in the future (specifically: he helped me change my panel sizings from vh to % as well as using the newly implemented dvh to the body, which will apparently future proof my code as well as improve ease of responsive design).
 
 Thank you to my classmates on Slack for assisting when I had questions regarding HTML tags, how to export wireframes in Balsamiq, and overall feedback of my page. <3 
+
+### Retro/Reflections
+
+After the project I plan on having a personal retro/reflection on how it went, and what I could do better for my next project.
