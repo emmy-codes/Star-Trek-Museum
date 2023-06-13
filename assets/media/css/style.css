@@ -26,10 +26,6 @@ body {
     color: #A533FF;
 }
 
-.heading-wrapper {
-    padding: 1rem;
-}
-
 #nav-links {
     list-style-type: none;
     display: flex;
@@ -183,7 +179,7 @@ footer {
     bottom: 0;
     flex-wrap: wrap;
     max-width: 1024px;
-    padding-bottom: 1rem;
+    padding: 0 0 1rem 0;
 }
 
 footer a {
@@ -204,7 +200,7 @@ footer a {
     color: #A533FF;
     font-size: 1.5em;
     text-align: center;
-    padding-top: 1rem;
+    padding-top: 1rem;  
 }
 
 .text-wrapper {
@@ -295,8 +291,7 @@ span {
     align-content: center;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 7rem;
-    margin-top: 5rem;
+    /* margin: 2rem; */
 }
 
 .contact-wrapper,
