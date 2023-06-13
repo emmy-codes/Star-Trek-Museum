@@ -120,7 +120,6 @@ header {
     color: #FFAA90;
     font-size: 1.2rem;
     width: 100%;
-    padding-top: 3rem;
 }
 
 /* Homepage styling */
@@ -205,6 +204,7 @@ footer a {
     color: #A533FF;
     font-size: 1.5em;
     text-align: center;
+    padding-top: 1rem;
 }
 
 .text-wrapper {
