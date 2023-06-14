@@ -397,6 +397,19 @@ textarea {
     display: block;
 }
 
+/* 404 page */
+
+.woops {
+    margin: 2rem auto;
+    display: block;
+}
+
+.woops-text {
+    color: #A533FF;
+    font-size: 1.5rem;
+    max-width: 50%;
+}
+
 /* responsive media queries */
 
 @media only screen and (max-width: 600px) {
