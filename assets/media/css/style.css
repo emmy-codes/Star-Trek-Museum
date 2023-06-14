@@ -116,6 +116,7 @@ header {
     color: #FFAA90;
     font-size: 1.2rem;
     width: 100%;
+    height: 100dvh;
 }
 
 /* Homepage styling */
