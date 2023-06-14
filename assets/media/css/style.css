@@ -307,10 +307,6 @@ span {
     align-items: center;
 }
 
-.contact-icons {
-    margin: 1em;
-}
-
 .phone,
 .address,
 .email {
@@ -319,8 +315,10 @@ span {
     height: 5rem;
 }
 
-.email-text {
-    padding-bottom: 1rem;
+.contact-text {
+    text-decoration: none;
+    color:#7788FF;
+    margin-bottom: 1rem;
 }
 
 .map {
