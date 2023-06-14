@@ -385,12 +385,12 @@ textarea {
     width: 100vw;
 }
 
-.thank-you {
+.info-text {
     background-color: #FFAA90;
     color: black;
     padding: 1rem;
     border: solid 3px #DD4444;
-    margin: 5rem auto;
+    margin: 4rem auto;
     width: 25vw;
     display: block;
 }
@@ -400,12 +400,6 @@ textarea {
 .woops {
     margin: 2rem auto;
     display: block;
-}
-
-.woops-text {
-    color: #A533FF;
-    font-size: 1.5rem;
-    max-width: 50%;
 }
 
 /* responsive media queries */
