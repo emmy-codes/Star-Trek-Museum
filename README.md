@@ -245,11 +245,34 @@ The local development section gives instructions on how someone else could make 
 
 #### How to Fork
 
-Place instructions on how to fork your project here.
+How to fork this repo (numbers on the screenshot below align with the list):
+
+* Go to the repository on Github [Star Trek Museum Repo](https://github.com/emmy-codes/Star-Trek-Museum)
+
+1. Click on the "fork" option on the repo.
+2. Change the owner (optional, if you have multiple organisations/groups on your Githb) and choose the name.
+
+* If you wish, add a description of your own or leave it as the default description by me.
+
+3. Choose whether to copy the main branch only (which is recommended).
+4. Click the green "create fork" button.
+
+[How to fork screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/1d13c985-a952-4a1b-aba9-0a16f8c7dff6)
+
 
 #### How to Clone
 
-Place instructions on how to clone your project here.
+Once you have forked the repo you will have a copy of the codebase on your Github account, meaning you can then add to the code and create PRs to my main branch. You can then clone the repo and start working. If you just want to try the code out then there is no need to fork and you can just clone and have fun!
+
+* If you're just cloning or not still on the same page, go to the repository on Github [Star Trek Museum Repo](https://github.com/emmy-codes/Star-Trek-Museum) 
+
+1. Click the green "code" button to activate the dropdown menu.
+2. Choose SSH to show the correct link to copy.
+3. Copy the SSH link by clicking the icon to the right of it.
+
+[How to clone sreenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/69bcebed-eb2e-47f5-94da-3611cccb8f82)
+
+4. Open your IDE (here I will be using VSCode).
 
 ## Testing
 
