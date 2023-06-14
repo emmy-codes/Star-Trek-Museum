@@ -7,7 +7,6 @@
 }
 
 body {
-    background-color: black;
     font-family: 'Antonio', sans-serif;
     font-weight: 400;
     padding: 0 1.5rem;
@@ -18,6 +17,9 @@ body {
     align-items: center;
     margin: 0 auto;
     padding-bottom: 2rem;
+    background: url(https://apod.nasa.gov/apod/image/2306/Marte-M44_230603_800.jpg) center no-repeat;
+    background-color: black;
+    background-size: 1024px;
 }
 
 /* Nav bar styling: */
@@ -108,15 +110,11 @@ header {
 /* Main content styling: */
 
 .landing-intro {
-    background: url(https://apod.nasa.gov/apod/image/2306/Marte-M44_230603_800.jpg) center no-repeat;
-    background-color: black;
-    background-size: cover;
     display: flex;
     flex-direction: column;
     color: #FFAA90;
     font-size: 1.2rem;
     width: 100%;
-    height: 100dvh;
 }
 
 /* Homepage styling */
@@ -201,7 +199,7 @@ footer a {
     color: #A533FF;
     font-size: 1.5em;
     text-align: center;
-    padding: 2rem;  
+    padding: 2rem;
 }
 
 .text-wrapper {
@@ -264,7 +262,7 @@ span {
     color: #DD4444;
     text-align: center;
     font-size: 3rem;
-    color:#A533FF;
+    color: #A533FF;
 }
 
 #comments {
