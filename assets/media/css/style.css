@@ -22,11 +22,7 @@ body {
     background-size: 1024px;
 }
 
-/* Nav bar */
-
-.heading {
-    color: #A533FF;
-}
+/* Heading and nav bar */
 
 #nav-links {
     list-style-type: none;
@@ -43,6 +39,22 @@ body {
     color: #A533FF;
 }
 
+#navigation-wrapper {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    gap: 5em;
+    padding: 1rem;
+}
+
+.heading {
+    color: #A533FF;
+}
+
+.heading-wrapper {
+    padding: 1rem;
+}
+
 header {
     display: flex;
     flex-direction: row;
@@ -52,14 +64,6 @@ header {
     width: 100%;
     justify-content: space-between;
     max-width: 1024px;
-}
-
-#navigation-wrapper {
-    background-color: black;
-    display: flex;
-    justify-content: space-around;
-    gap: 5em;
-    padding: 1rem;
 }
 
 .sub-heading {
@@ -248,16 +252,7 @@ footer a {
     color: #FF7700;
 }
 
-/* Form submission page */
-
-span {
-    margin-top: 5vh;
-    padding: 1%;
-    color: white;
-    width: 30vw;
-    border: #DD4444 solid 2px;
-    border-radius: 5px;
-}
+/* Contact page */
 
 .get-in-touch {
     margin: 2.5rem;
