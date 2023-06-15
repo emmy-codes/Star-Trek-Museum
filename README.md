@@ -51,7 +51,7 @@ The Star Trek Museum is an imaged museum detailing the exhibitions available for
   * [Media](#media)
   * [Acknowledgments](#acknowledgments)
 
-* [Retro/reflections](#retro-reflections)
+* [Retro Reflections](#retro-reflections)
 
 ---
 
@@ -313,7 +313,7 @@ Thank you to my partner for his insight on media queries and guidance on the bes
 
 Thank you to my classmates on Slack for assisting when I had questions regarding HTML tags, how to export wireframes in Balsamiq, and overall feedback of my page. <3 
 
-## Retro/Reflections
+## Retro Reflections
 
 In my [New Users](#new-users) section I planned to add image buttons beneath the text.
 
