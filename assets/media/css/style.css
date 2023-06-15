@@ -525,6 +525,10 @@ textarea {
         order: -1;
     }
 
+    .thankyou-text {
+        font-size: 1rem;
+    }
+
     header {
         flex-direction: column;
     }
