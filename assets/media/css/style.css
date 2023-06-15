@@ -309,9 +309,9 @@ span {
 .phone,
 .address,
 .email {
-    max-width: 5vw;
     margin: 1rem 0;
     height: 5rem;
+    width: 5rem;
 }
 
 .contact-text {
