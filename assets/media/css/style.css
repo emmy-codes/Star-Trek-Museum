@@ -392,6 +392,19 @@ textarea {
     display: block;
 }
 
+/* Thankyou page for form submission */
+
+ .thankyou-text {
+     max-width: 30vw;
+     margin: 5rem auto;
+     font-size: 0.8rem;
+     background-color: #FFAA90;
+     color: black;
+     padding: 1rem;
+     border: solid 3px #DD4444;
+     display: block;
+ }
+
 /* 404 page */
 
 .woops {
