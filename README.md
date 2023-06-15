@@ -61,17 +61,17 @@ The Star Trek Museum is an imaged museum detailing the exhibitions available for
 
 #### New Users:
 
-The landing page will more geared towards new visitors and / or those new to Star Trek and wanting to know more. There will be clean and inviting information on what the visitor can expect to experience by visiting the museum by following the CTAS / links provided, as well as an image from each of the exhibitions to cultivate curiosity to learn more.
+The landing page will be more geared towards new visitors as well as those new to Star Trek and who want to know more. There will be clean and inviting information on what the visitor can expect to experience by visiting the museum by following the CTAS/links provided, as well as an image from each of the exhibitions to cultivate curiosity to learn more.
 
 #### Experienced Users:
 
-By experienced users I mean those that have visited the museum before and / or are fans of the Trek franchise and need less guidance on the page.
+By experienced users I mean those that have visited the museum before and/or are fans of the Trek franchise and need less guidance on the page.
 
 The other areas of the site will start with a short blurb about what the visitor will find on this page, followed by a couple of images from the museum alongside a short text. The idea is to pique the visitor's interest so they want to visit the museum. 
 
-* Both pages will have short pieces of text, so as to help the visitor digest the information without being overwhelmed.
+* Both pages will have short pieces of text to help the visitor digest the information without being overwhelmed.
 
-* Too many images can slow the loading of the webpage, so I will be limiting to one per paragraph/section.
+* Too many images can slow the loading of the webpage, so I will be limiting their use to one per paragraph/section.
 
 * Each page will have a CTA that leads to the "how to get here" page to help steer traffic towards visiting the museum.
 
@@ -79,9 +79,9 @@ The other areas of the site will start with a short blurb about what the visitor
 
 ### Colour Scheme
 
-The colour scheme is pre-determined with a variety of colours, I shall try to pick a few main colours from this large list that will be both UX/accessibility friendly but making the page look as Trek as possible.
+The colour scheme is pre-determined with a variety of colours, I shall try to pick a few main colours from this large list that will be both UX/accessibility friendly but keep the page looking as Trek as possible.
 
-This large colour palette is the LCARS (or Library Computer Access/Retrieval System) is the operating system used on most Trek series so any visitor familiar with the franchise will instantly recognise it. The challenge will be to make it as friendly for non Trek visitors/take into account any accessibility needs.
+This large colour palette is the LCARS (or Library Computer Access/Retrieval System) is the operating system used on most Trek series so any visitor familiar with the franchise will instantly recognise it. The challenge will be to make it as friendly for non-Trek visitors/take into account any accessibility needs.
 
 ![Star Trek LCARS colour palette with 36 colours](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/7e55be12-cb5d-401b-af81-684157848bd2)
 
@@ -93,7 +93,7 @@ Doing some research I discovered a Tweet that Mike Okuda, the graphic designer w
 
 I had a look at these two fonts and agree that the Helvetica looks better as it is not as thick as Swiss 911, but the letters are very close together which is how they are on the LCARS system but for the sake of accessibility and UX I think they should have more spacing between them.
 
-Seeing as this is not a regular font most people will have on their computers, I researched what Google Font could be a suitable alternative and have decided to use Antonio (as is used on [The LCARS](https://www.thelcars.com/) . This will ensure the page has a proper Trek feel to it without people needing special font packages installed. 
+Seeing as this is not a regular font most people will have on their computers, I researched what Google Font could be a suitable alternative and have decided to use Antonio (as is used on [The LCARS](https://www.thelcars.com/). This will ensure the page has a proper Trek feel to it without people needing special font packages installed. 
 
 Taking a look at the example LCARS screen below, I decided 700 weight could be good for main titles, while 400 works nicely in sizes 48px for headings, and 21px and 16px for paragraphs/other text.
 
@@ -114,7 +114,7 @@ During my research I came across a favicon of a Star Trek badge that I plan on u
 
 #### Page: Star Trek Crews
 
-This page will have 3 of the many different Trek crews due to time constraints, so I went researching to find 3 images as similar to oneanother as possible. Luckily through [IMDB](https://www.imdb.com/) each of the 3 Trek pages have identical crew artwork which will help improve the UX/UI of the page. On this page, there is the possibility to link the other pages onto here. (in the blurb for one crew there could be links to the starship exhibition)
+This page will have 3 of the many different Trek crews due to time constraints, so I went researching to find 3 images as similar to one another as possible. Luckily through [IMDB](https://www.imdb.com/) each of the 3 Trek pages have identical crew artwork which will help improve the UX/UI of the page. On this page, there is the possibility to link the other pages. (in the blurb for one crew there could be links to the starship exhibition)
 
 ![Crew of Star Trek: Voyager](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/409700fe-f0f5-4b30-b586-c03bed0e67cf)
 ![Crew of Star Trek: Deep Space Nine](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/5ca328ed-7bd0-4127-8187-b7fdd2f44571)
@@ -122,7 +122,7 @@ This page will have 3 of the many different Trek crews due to time constraints, 
 
 #### Exhibition: Starships
 
-Similar to the crews page there will be details on the ship exhibition at the museum:
+Similar to the crews' page there will be details on the ship exhibition at the museum:
 
 ![Starship Voyager](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/10d119f9-8701-4bb0-92e0-74f25b9ce214)
 ![Space station Deep Space Nine](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/0405c7d2-a51e-4d1a-bdc6-ff5c95315814)
@@ -132,7 +132,7 @@ After speaking with my mentor I discovered that webp formats would improve the l
 
 ### Wireframes
 
-My wireframes accidentally went rather hi-fi because I wanted to see how the background images and the strong LCARS colour scheme was going to work, but I finished the estimated design for desktop, tablet and mobile for the homepage, crew exhibition, starship exhibition, contact page and  404 error page.
+My wireframes accidentally went rather hi-fi because I wanted to see how the background images and the strong LCARS colour scheme was going to work, but I finished the estimated design for desktop, tablet, and mobile for the homepage, crew exhibition, starship exhibition, contact page and  404 error page.
 
 #### Homepage
 
