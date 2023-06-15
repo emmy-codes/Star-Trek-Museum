@@ -250,7 +250,7 @@ footer a {
 
 /* Highlighting credits link on footer on mouseover */
 
-.credits-anchor:hover {
+footer a:hover {
     color: #FF7700;
 }
 
