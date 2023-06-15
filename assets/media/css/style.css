@@ -399,7 +399,7 @@ textarea {
     display: block;
 }
 
-/* Responsive media queries */
+/* Responsive media queries mobile */
 
 @media only screen and (max-width: 600px) {
 
@@ -410,6 +410,10 @@ textarea {
     #navigation-wrapper {
         font-size: 0.8rem;
         padding: 0 0 1rem 0;
+    }
+
+    .get-in-touch {
+        font-size: 2.5rem;
     }
 
     .crew-title-left,
@@ -430,8 +434,9 @@ textarea {
         margin: 1rem;
     }
 
-    img {
+    .facepalm {
         margin: 0;
+        width: 50vw;
     }
 
     .crew-wrappers {
@@ -474,16 +479,22 @@ textarea {
         margin: 0;
     }
 
+    .info-text {
+        width: 40vw;
+        margin: 0 auto;
+        font-size: 0.8rem;
+    }
+
     .form-wrapper {
         max-width: 95%;
     }
 
     .map {
-        width: 95%;
+        width: 90%;
     }
 
     .contact-wrapper {
-        margin: 0 0 5rem 0;
+        margin: 1rem 1rem 4rem;
     }
 
     .crew-image-left,
