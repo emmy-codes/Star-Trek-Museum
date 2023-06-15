@@ -2,9 +2,9 @@
 
 The Star Trek Museum is an imaged museum detailing the exhibitions available for fans of the franchise.
 
-[Star Trek AmIResponsive screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3daf390b-1c33-4c1d-abee-33d695fe9828)
+![Star Trek AmIResponsive screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3daf390b-1c33-4c1d-abee-33d695fe9828)
 
-[Star Trek Museum Live Site](https://emmy-codes.github.io/Star-Trek-Museum/)
+![Star Trek Museum Live Site](https://emmy-codes.github.io/Star-Trek-Museum/)
 
 ---
 
