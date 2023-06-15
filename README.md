@@ -182,19 +182,19 @@ The tabs have a favicon of the Star Trek comms badge mentioned in the ### Imager
 *** In the interest of openness, AmIResponsive was giving me a bottom scroll bar on the mobile device image, upon inspecting they have set the min-width to 97vw which is giving a scrollbar that doesn't exist in the dev tools.
 
 #### Landing page on multiple devices:
-[Star Trek AmIResponsive homepage screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3daf390b-1c33-4c1d-abee-33d695fe9828)
+![Star Trek AmIResponsive homepage screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3daf390b-1c33-4c1d-abee-33d695fe9828)
 
 #### Crews page on multiple devices:
-[Star Trek AmIResponsive crew page screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3928280f-7324-46b1-9093-cce3effc19e7)
+![Star Trek AmIResponsive crew page screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3928280f-7324-46b1-9093-cce3effc19e7)
 
 #### Contact page on multiple devices:
-[Star Trek AmIResponsive contact page screenshot]()
+![Star Trek AmIResponsive contact page screenshot]()
 
 #### Form submission page on multiple devices:
-[Star Trek AmIResponsive form submission page screenshot]()
+![Star Trek AmIResponsive form submission page screenshot]()
 
 #### 404 page on multiple devices:
-[Star Trek AmIResponsive 404 page screenshot]()
+![Star Trek AmIResponsive 404 page screenshot]()
 
 ### Future Implementations
 
