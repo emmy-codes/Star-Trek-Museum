@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    /* background-color: rgba(0, 0, 0, 0.3); */
 }
 
 body {
@@ -15,8 +16,10 @@ body {
     align-items: center;
     margin: 0 auto;
     padding-bottom: 2rem;
-    background: url(https://apod.nasa.gov/apod/image/2306/Marte-M44_230603_800.jpg) center repeat-y;
-    background-color: black;
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.5)),
+        url('https://apod.nasa.gov/apod/image/2306/Marte-M44_230603_800.jpg');
     background-size: 1024px;
 }
 
@@ -394,16 +397,16 @@ textarea {
 
 /* Thankyou page for form submission */
 
- .thankyou-text {
-     max-width: 30vw;
-     margin: 5rem auto;
-     font-size: 1.4rem;
-     background-color: #FFAA90;
-     color: black;
-     padding: 1rem;
-     border: solid 3px #DD4444;
-     display: block;
- }
+.thankyou-text {
+    max-width: 30vw;
+    margin: 5rem auto;
+    font-size: 1.4rem;
+    background-color: #FFAA90;
+    color: black;
+    padding: 1rem;
+    border: solid 3px #DD4444;
+    display: block;
+}
 
 /* 404 page */
 
