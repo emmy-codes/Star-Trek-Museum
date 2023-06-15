@@ -20,7 +20,6 @@ body {
         linear-gradient(rgba(0, 0, 0, 0.5),
             rgba(0, 0, 0, 0.5)),
         url('https://apod.nasa.gov/apod/image/2306/Marte-M44_230603_800.jpg');
-    background-size: 1024px;
 }
 
 /* Heading and nav bar */
@@ -334,13 +333,13 @@ span {
     color: white;
     border-radius: 25px;
     padding: 0.5rem;
-    border: 2px solid #88CCFF;
+    cursor: pointer;
     font-weight: 700;
     font-size: 1rem;
 }
 
 .form-button:hover {
-    filter: brightness(125%);
+    background-color: #313131;
 }
 
 .form-titles>input,
@@ -363,6 +362,10 @@ textarea {
     border: solid 3px #DD4444;
     max-width: 40%;
     flex-grow: 1;
+}
+
+.center-text {
+    text-align: center;
 }
 
 .form-wrapper li {
