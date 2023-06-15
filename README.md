@@ -2,11 +2,9 @@
 
 The Star Trek Museum is an imaged museum detailing the exhibitions available for fans of the franchise.
 
- ((( Add an image of the finished site here on https://ui.dev/amiresponsive )))
+[Star Trek AmIResponsive screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3daf390b-1c33-4c1d-abee-33d695fe9828)
 
-((( Add a link to the live site here upon completion )))
-
-(( If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section. ))
+[Star Trek Museum Live Site](https://emmy-codes.github.io/Star-Trek-Museum/)
 
 ---
 
@@ -96,7 +94,7 @@ Doing some research I discovered a Tweet that Mike Okuda, the graphic designer w
 
 I had a look at these two fonts and agree that the Helvetica looks better as it is not as thick as Swiss 911, but the letters are very close together which is how they are on the LCARS system but for the sake of accessibility and UX I think they should have more spacing between them.
 
-Seeing as this is not a regular font most people will have on their computers, I researched what Google Font could be a suitable alternative and have decided to use Antonio. This will ensure the page has a proper Trek feel to it without people needing special font packages installed. 
+Seeing as this is not a regular font most people will have on their computers, I researched what Google Font could be a suitable alternative and have decided to use Antonio (as is used on [The LCARS](https://www.thelcars.com/) . This will ensure the page has a proper Trek feel to it without people needing special font packages installed. 
 
 Taking a look at the example LCARS screen below, I decided 700 weight could be good for main titles, while 400 works nicely in sizes 48px for headings, and 21px and 16px for paragraphs/other text.
 
@@ -117,7 +115,7 @@ During my research I came across a favicon of a Star Trek badge that I plan on u
 
 #### Page: Star Trek Crews
 
-This page will have 3 of the many different Trek crews due to time constraints, so I went researching to find 3 images as similar to oneanother as possible. Luckily through [IMDB](https://www.imdb.com/ "IMDB main page") each of the 3 Trek pages have identical crew artwork which will help improve the UX/UI of the page. On this page, there is the possibility to link the other pages onto here. (in the blurb for one crew there could be links to the starship exhibition)
+This page will have 3 of the many different Trek crews due to time constraints, so I went researching to find 3 images as similar to oneanother as possible. Luckily through [IMDB](https://www.imdb.com/) each of the 3 Trek pages have identical crew artwork which will help improve the UX/UI of the page. On this page, there is the possibility to link the other pages onto here. (in the blurb for one crew there could be links to the starship exhibition)
 
 ![Crew of Star Trek: Voyager](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/409700fe-f0f5-4b30-b586-c03bed0e67cf)
 ![Crew of Star Trek: Deep Space Nine](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/5ca328ed-7bd0-4127-8187-b7fdd2f44571)
@@ -181,7 +179,22 @@ Each page has the same header and nav bar, and the same footer with the (fake) s
 
 The tabs have a favicon of the Star Trek comms badge mentioned in the ### Imagery section which is designed to fit well on Chrome, android and apple mobiles.
 
-(( I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.))
+*** In the interest of openness, AmIResponsive was giving me a bottom scroll bar on the mobile device image, upon inspecting they have set the min-width to 97vw which is giving a scrollbar that doesn't exist in the dev tools.
+
+#### Landing page on multiple devices:
+[Star Trek AmIResponsive homepage screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3daf390b-1c33-4c1d-abee-33d695fe9828)
+
+#### Crews page on multiple devices:
+[Star Trek AmIResponsive crew page screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3928280f-7324-46b1-9093-cce3effc19e7)
+
+#### Contact page on multiple devices:
+[Star Trek AmIResponsive contact page screenshot]()
+
+#### Form submission page on multiple devices:
+[Star Trek AmIResponsive form submission page screenshot]()
+
+#### 404 page on multiple devices:
+[Star Trek AmIResponsive 404 page screenshot]()
 
 ### Future Implementations
 
@@ -220,8 +233,6 @@ HTML, CSS
 [Squoosh](https://squoosh.app/) for resizing images for my ReadMe.
 
 ## Deployment & Local Development
-
-👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
 
 ### Deployment
 
@@ -273,20 +284,19 @@ Once you have forked the repo you will have a copy of the codebase on your Githu
 [How to clone sreenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/69bcebed-eb2e-47f5-94da-3611cccb8f82)
 
 4. Open your IDE (here I will be using VSCode).
+5. Open your terminal.
+6. type "git clone" (without quotation marks) followed by the SSH key.
+7. Viola, now you have a copy on your local IDE!
 
 ## Testing
 
-Start as you mean to go on - and get used to writing a TESTING.md file from the very first project!
-
-Testing requirements aren't massive for your first project, however if you start using a TESTING.md file from your first project you will thank yourself later when completing your later projects, which will contain much more information.
-  
-Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
+Link to my TESTING.md file [here](https://github.com/emmy-codes/Star-Trek-Museum/blob/main/testing.md)
 
 ## Credits
 
 Thankyou to ![MDN form guide](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form) for guiding me through making a form for my site
 
-I have taken inspiration and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
+I have taken inspiration, font family and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
 
 ### Content
 
@@ -306,4 +316,17 @@ Thank you to my classmates on Slack for assisting when I had questions regarding
 
 ### Retro/Reflections
 
-After the project I plan on having a personal retro/reflection on how it went, and what I could do better for my next project.
+In my [New Users](#new-users) section I planned to add image buttons beneath the text.
+
+In my [Experienced Users](#experienced-users) section I planned to have a CTA button “how to get here” to take the user directly to the contact info page to help steer users towards visiting the exhibition.
+
+The texts overall feel larger than I intended but it turned out to be hard to have enough detail to intrigue people without being too long. I have already cut off some text to help with this, perhaps in the future it can be minimised even more without affecting the quality of the texts.
+
+I am happy with how the colour palette turned out, I feel I was able to keep it relevant for Trekkies with a generic image of space instead of different Trek background images, and the LCARs colour theme worked well for the text without causing accessibility/reading issues.
+
+The font I took looks great and feels very Trek to me, and is easily readable.
+
+I had originally planned to have a page showcasing the Starships exhibition and fully plan on adding it in the future, but seeing as the layout was going to be almost identical to the crews page, I decided to cut this from my MVP for the sake of time.
+
+The header and footer came out nicely, although I had planned on adding social media links which are very important and will try to squeeze those in the last minute!
+
