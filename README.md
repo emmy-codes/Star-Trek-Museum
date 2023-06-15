@@ -47,7 +47,6 @@ The Star Trek Museum is an imaged museum detailing the exhibitions available for
 * [Testing](#testing)
 
 * [Credits](#credits)
-  * [Code Used](#code-used)
   * [Content](#content)
   * [Media](#media)
   * [Acknowledgments](#acknowledgments)
@@ -240,7 +239,7 @@ To deploy this page I have used Github pages.
 
 How I deployed my page to Github pages:
 
-1. Signed into ![Github](https://github.com/)
+1. Signed into [Github](https://github.com/)
 2. Located my repository [Star Trek Museum](https://github.com/emmy-codes/Star-Trek-Museum)
 3. Clicked on Settings, then selected Pages from the left menu.
 4. Under Build and deployment I chose the source, which was the dropdown for Deploy from a branch.
@@ -268,7 +267,7 @@ How to fork this repo (numbers on the screenshot below align with the list):
 3. Choose whether to copy the main branch only (which is recommended).
 4. Click the green "create fork" button.
 
-[How to fork screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/1d13c985-a952-4a1b-aba9-0a16f8c7dff6)
+![How to fork screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/1d13c985-a952-4a1b-aba9-0a16f8c7dff6)
 
 
 #### How to Clone
@@ -281,7 +280,7 @@ Once you have forked the repo you will have a copy of the codebase on your Githu
 2. Choose SSH to show the correct link to copy.
 3. Copy the SSH link by clicking the icon to the right of it.
 
-[How to clone sreenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/69bcebed-eb2e-47f5-94da-3611cccb8f82)
+![How to clone sreenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/69bcebed-eb2e-47f5-94da-3611cccb8f82)
 
 4. Open your IDE (here I will be using VSCode).
 5. Open your terminal.
@@ -294,18 +293,18 @@ Link to my TESTING.md file [here](https://github.com/emmy-codes/Star-Trek-Museum
 
 ## Credits
 
-Thankyou to ![MDN form guide](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form) for guiding me through making a form for my site
+Thankyou to [MDN form guide](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form) for guiding me through making a form for my site
 
 I have taken inspiration, font family and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
 
 ### Content
 
-I have used ![OpenAI](https://chat.openai.com/) to create most of the text for me so I can focus my time on practicing with the code. I wanted to write the content myself but there is far greater knowledge needed of Star Trek than I currently posess and I wanted to limit my time spent searching for a complete source to give me a basis to write my own work off.
+I have used [OpenAI](https://chat.openai.com/) to create most of the text for me so I can focus my time on practicing with the code. I wanted to write the content myself but there is far greater knowledge needed of Star Trek than I currently posess and I wanted to limit my time spent searching for a complete source to give me a basis to write my own work off.
 
 ###  Media
 
 The crew images are sourced from [IMDB](https://www.imdb.com/)
-The starships are from ![PNGfind](https://www.pngfind.com/freepng/star-trek/)
+The starships are from [PNGfind](https://www.pngfind.com/freepng/star-trek/)
 
 
 ###  Acknowledgments
@@ -314,7 +313,7 @@ Thank you to my partner for his insight on media queries and guidance on the bes
 
 Thank you to my classmates on Slack for assisting when I had questions regarding HTML tags, how to export wireframes in Balsamiq, and overall feedback of my page. <3 
 
-### Retro/Reflections
+## Retro/Reflections
 
 In my [New Users](#new-users) section I planned to add image buttons beneath the text.
 
