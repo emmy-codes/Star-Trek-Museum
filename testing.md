@@ -4,6 +4,7 @@
 
 * [AUTOMATED TESTING](#automated-testing)
   * [W3C Validator](#w3c-validator)
+  * [Wave](#wave)
   * [Lighthouse](#lighthouse)
 * [MANUAL TESTING](#manual-testing)
   * [User testing](#user-testing)
@@ -37,6 +38,18 @@ To me this feels an unnecessary problem to fix because it is considered an indus
 * [CSS Check Contact Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/6c25a5d4-eec7-4161-9e9f-f6a124d7c9e9) - Validated/no errors.
 * [CSS Check Form Submission](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/29bf1cc1-eba5-4f07-ab9b-423d4582ab09) - Validated/no errors.
 * [CSS Check 404](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/1cacffaa-aae5-4f98-84d8-c03dfda176cb) - Validated/no errors.
+
+### Wave
+
+Wave is a tool that helps ensure good accessibility on your page. I ran each page through their validator. 
+Both the 404 page and the form submission page had an alert due to not having a header tag, which helps screen readers navigate the page. These are now addressed.
+
+* [WAVE Report of Star Trek Museum Index](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/f76a0b08-6e11-4784-9992-ad20dd57a1e5) - Pass.
+* [WAVE-Report-of-Star-Trek-Museum-Crews-Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/c13d94dd-f6c4-456d-956a-08e79fa98fc4) - Pass.
+* [WAVE-Report-of-Star-Trek-Museum-Contact-Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/65156e43-a5a3-434d-adf2-02b62bee5bc4) - Pass.
+* [WAVE-Report-of-Star-Trek-Museum Form Submission Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/d41bb1b5-5d4e-40d9-b9fb-7e31e0717f33) - Pass.
+* [WAVE Report of Star Trek Museum 404 Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/8350d314-9171-4a73-a951-1859c12fa365) - Pass.
+
 
 ### Lighthouse
 
