@@ -2,7 +2,7 @@
 
 The Star Trek Museum is an imaged museum detailing the exhibitions available for fans of the franchise.
 
-![Star Trek AmIResponsive screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3daf390b-1c33-4c1d-abee-33d695fe9828)
+![Am I Responsive Index](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/f6d9256b-dc20-49c0-b1ef-da1b785a9987)
 
 [Star Trek Museum Live Site](https://emmy-codes.github.io/Star-Trek-Museum/)
 
@@ -93,7 +93,7 @@ Doing some research I discovered a Tweet that Mike Okuda, the graphic designer w
 
 I had a look at these two fonts and agree that the Helvetica looks better as it is not as thick as Swiss 911, but the letters are very close together which is how they are on the LCARS system but for the sake of accessibility and UX I think they should have more spacing between them.
 
-Seeing as this is not a regular font most people will have on their computers, I researched what Google Font could be a suitable alternative and have decided to use Antonio (as is used on [The LCARS](https://www.thelcars.com/). This will ensure the page has a proper Trek feel to it without people needing special font packages installed. 
+Seeing as this is not a regular font most people will have on their computers, I researched what Google Font could be a suitable alternative and have decided to use Antonio (as is used on [The LCARS](https://www.thelcars.com/)). This will ensure the page has a proper Trek feel to it without people needing special font packages installed. 
 
 Taking a look at the example LCARS screen below, I decided 700 weight could be good for main titles, while 400 works nicely in sizes 48px for headings, and 21px and 16px for paragraphs/other text.
 
@@ -106,7 +106,9 @@ Taking a look at the example LCARS screen below, I decided 700 weight could be g
 
 ### Imagery
 
-During my research I came across a favicon of a Star Trek badge that I plan on using on each page: <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/65ab9634-8241-4687-b2b9-5a961057c6be" width="50px" height="50px" alt="Pixelated favicon of a gold and white Star Trek badge">
+During my research, I came across a favicon of a Star Trek badge that I plan on using on each page: 
+
+![Pixelated favicon of a gold and white Star Trek badge](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/65ab9634-8241-4687-b2b9-5a961057c6be)
 
 #### Homepage
 
@@ -114,7 +116,7 @@ During my research I came across a favicon of a Star Trek badge that I plan on u
 
 #### Page: Star Trek Crews
 
-This page will have 3 of the many different Trek crews due to time constraints, so I went researching to find 3 images as similar to one another as possible. Luckily through [IMDB](https://www.imdb.com/) each of the 3 Trek pages have identical crew artwork which will help improve the UX/UI of the page. On this page, there is the possibility to link the other pages. (in the blurb for one crew there could be links to the starship exhibition)
+This page will have 3 of the many different Trek crews due to time constraints, so I went researching to find 3 images as similar to one another as possible. Luckily through [IMDB](https://www.imdb.com/) each of the 3 Trek pages have identical crew artwork which will help improve the UX/UI of the page. On this page, there is the possibility to link to the other pages. (in the blurb for one crew there could be links to the starship exhibition)
 
 ![Crew of Star Trek: Voyager](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/409700fe-f0f5-4b30-b586-c03bed0e67cf)
 ![Crew of Star Trek: Deep Space Nine](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/5ca328ed-7bd0-4127-8187-b7fdd2f44571)
@@ -132,7 +134,7 @@ After speaking with my mentor I discovered that webp formats would improve the l
 
 ### Wireframes
 
-My wireframes accidentally went rather hi-fi because I wanted to see how the background images and the strong LCARS colour scheme was going to work, but I finished the estimated design for desktop, tablet, and mobile for the homepage, crew exhibition, starship exhibition, contact page and  404 error page.
+My wireframes accidentally went rather hi-fi because I wanted to see how the background images and the strong LCARS colour scheme was going to work, but I finished the estimated design for desktop, tablet, and mobile for the homepage, crew exhibition, starship exhibition, contact page, and 404 error page.
 
 #### Homepage
 
@@ -158,47 +160,49 @@ My wireframes accidentally went rather hi-fi because I wanted to see how the bac
 
 My site comprises of 5 pages:
 
-The homepage, welcoming the user to the main page for the Star Trek Museum, introducing them to the project and informing them of what they can expect when visiting the museum. An image helps to break up the text portion to make it easier for the user to view the content without getting overwhelmed.
+The homepage welcomes the user to the main page for the Star Trek Museum, introduces them to the project, and informs them of what they can expect when visiting the museum. An image helps to break up the text portion to make it easier for the user to view the content without getting overwhelmed.
 
 Beneath the introductory text are 3 buttons leading to the different sections of the site as a sort of CTA.
 
 The Crews of Star Trek page showcases the 3 Treks that will be available for viewing along with an image of each crew.
 
-The Starships page features the large scale replica models available for viewing at the museum.
+The Starships page features the large-scale replica models available for viewing at the museum.
 
-The get in touch page has the phone, address and email for contact, along with a form for those who prefer, and a map (to a fake/incorrect address).
+The get in touch page has the phone, address, and email for contact, along with a form for those who prefer, and a map (to a fake/incorrect address).
 
-The 404 page (not counted in the 4 page site) has an image/gif of Captain Picard facepalming with a button link to get back to the homepage.
+The 404 page (not counted in the 4-page site) has an image/gif of Captain Picard facepalming with a button link to get back to the homepage.
 
 A 5th page simply lets the user know their contact form has been submitted, which helps the user to stay on my website rather than being sent to Githubs default response.
 
 ### General features on each page
 
-Each page has the same header and nav bar, and the same footer with the (fake) socials available. The desktop version has the navigation bar in the form of links on the top right corner, whereas the mobile versions have a hamburger menu with a dropdown containing the same links.
+Each page has the same header and nav bar and the same footer with the (fake) socials available. The desktop version has the navigation bar in the form of links in the top right corner, whereas the mobile versions have a hamburger menu with a dropdown containing the same links.
 
-The tabs have a favicon of the Star Trek comms badge mentioned in the ### Imagery section which is designed to fit well on Chrome, android and apple mobiles.
+* Retroactive - I soon realised that a hamburger menu required JS to implement, so the nav bar stayed the same on mobile devices.
+
+The tabs have a favicon of the Star Trek comms badge mentioned in the ### Imagery section which is designed to fit well on Chrome, Android, and Apple mobiles.
 
 *** In the interest of openness, AmIResponsive was giving me a bottom scroll bar on the mobile device image, upon inspecting they have set the min-width to 97vw which is giving a scrollbar that doesn't exist in the dev tools.
 
 #### Landing page on multiple devices:
-![Star Trek AmIResponsive homepage screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3daf390b-1c33-4c1d-abee-33d695fe9828)
+![Am I Responsive Index](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/f6d9256b-dc20-49c0-b1ef-da1b785a9987)
 
 #### Crews page on multiple devices:
-![Star Trek AmIResponsive crew page screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3928280f-7324-46b1-9093-cce3effc19e7)
+![Am I Responsive Crews Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/0778a4e2-627a-44f6-9617-193659a30609)
 
 #### Contact page on multiple devices:
-![Star Trek AmIResponsive contact page screenshot]()
+![Am I Responsive Contact Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/9abee607-8a4c-4c57-aa0c-ce8fc109ca13)
 
 #### Form submission page on multiple devices:
-![Star Trek AmIResponsive form submission page screenshot]()
+![Am I Responsive Form Submission Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/ba0faecb-4223-4504-a9b6-9e73065b9b19)
 
 #### 404 page on multiple devices:
-![Star Trek AmIResponsive 404 page screenshot]()
+![Am I Responsive 404 Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/80ed13fd-4e7f-4012-ad33-7858178ac063)
 
 ### Future Implementations
 
 1. I would like to have the background as a twinkling star scene, but without JavaScript that would be an excessively tedious manual positioning of dozens of stars. 
-2. I would also like to have the site look more like LCARS panels in order to appeal more to Trekkies, but shaping those panels would require more time and practice as of now.
+2. I would also like to have the site look more like LCARS panels to appeal more to Trekkies, but shaping those panels would require more time and practice as of now.
 3. Lastly, I would like to refactor my CSS to include root variables to help future-proof the project as it would make changing the colours of my LCARS panels much easier.
 
 ### Accessibility
@@ -219,7 +223,7 @@ HTML, CSS
 
 #### Programs
 
-[Github](https://github.com/) for uploading my code and having a place to create my live site via Github Pages.
+[GitHub](https://github.com/) for uploading my code and having a place to create my live site via GitHub Pages.
 
 [Balsamiq](https://balsamiq.com/) for my wireframe designs.
 
@@ -235,19 +239,19 @@ HTML, CSS
 
 ### Deployment
 
-To deploy this page I have used Github pages.
+To deploy this page I have used GitHub pages.
 
 How I deployed my page to Github pages:
 
-1. Signed into [Github](https://github.com/)
+1. Signed into [GitHub](https://github.com/)
 2. Located my repository [Star Trek Museum](https://github.com/emmy-codes/Star-Trek-Museum)
 3. Clicked on Settings, then selected Pages from the left menu.
-4. Under Build and deployment I chose the source, which was the dropdown for Deploy from a branch.
+4. Under Build and Deployment I chose the source, which was the dropdown for Deploy From a Branch.
 5. For Branch, I chose main/root from the dropdown and saved.
 
 ![Screenshot of location of settings and pages on Github](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/a838481b-fd67-4d3d-8498-7e5388bf7732)
 
-After a few minutes, my site is ready to view.
+After a few minutes, my site was ready to view.
 
 ### Local Development
 
@@ -257,10 +261,10 @@ The local development section gives instructions on how someone else could make 
 
 How to fork this repo (numbers on the screenshot below align with the list):
 
-* Go to the repository on Github [Star Trek Museum Repo](https://github.com/emmy-codes/Star-Trek-Museum)
+* Go to the repository on GitHub [Star Trek Museum Repo](https://github.com/emmy-codes/Star-Trek-Museum)
 
 1. Click on the "fork" option on the repo.
-2. Change the owner (optional, if you have multiple organisations/groups on your Githb) and choose the name.
+2. Change the owner (optional, if you have multiple organisations/groups on your GitHub) and choose the name.
 
 * If you wish, add a description of your own or leave it as the default description by me.
 
@@ -272,9 +276,9 @@ How to fork this repo (numbers on the screenshot below align with the list):
 
 #### How to Clone
 
-Once you have forked the repo you will have a copy of the codebase on your Github account, meaning you can then add to the code and create PRs to my main branch. You can then clone the repo and start working. If you just want to try the code out then there is no need to fork and you can just clone and have fun!
+Once you have forked the repo you will have a copy of the codebase on your GitHub account, meaning you can then add to the code and create PRs to my main branch. You can then clone the repo and start working. If you just want to try the code out then there is no need to fork and you can just clone and have fun!
 
-* If you're just cloning or not still on the same page, go to the repository on Github [Star Trek Museum Repo](https://github.com/emmy-codes/Star-Trek-Museum) 
+* If you're just cloning or not still on the same page, go to the repository on GitHub [Star Trek Museum Repo](https://github.com/emmy-codes/Star-Trek-Museum) 
 
 1. Click the green "code" button to activate the dropdown menu.
 2. Choose SSH to show the correct link to copy.
@@ -293,13 +297,13 @@ Link to my TESTING.md file [here](https://github.com/emmy-codes/Star-Trek-Museum
 
 ## Credits
 
-Thankyou to [MDN form guide](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form) for guiding me through making a form for my site
+Thank you to [MDN form guide](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form) for guiding me through making a form for my site
 
-I have taken inspiration, font family and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
+I have taken inspiration, font family, and hexcode from [The LCARS](https://www.thelcars.com/). Whilst this site has a library for use, I only wanted to take what I could from looking at the page as I didn't want to output more than I could create on my own.
 
 ### Content
 
-I have used [OpenAI](https://chat.openai.com/) to create most of the text for me so I can focus my time on practicing with the code. I wanted to write the content myself but there is far greater knowledge needed of Star Trek than I currently posess and I wanted to limit my time spent searching for a complete source to give me a basis to write my own work off.
+I have used [OpenAI](https://chat.openai.com/) to create most of the text for me so I can focus my time on practicing with the code. I wanted to write the content myself but there is far greater knowledge needed of Star Trek than I currently possess and I wanted to limit my time spent searching for a complete source to give me a basis to write my content from.
 
 ###  Media
 
@@ -311,7 +315,7 @@ The starships are from [PNGfind](https://www.pngfind.com/freepng/star-trek/)
 
 Thank you to my partner for his insight on media queries and guidance on the best practices for writing instructions on forking and cloning, as well as assistance for helping me adjust my site responsiveness to be less of a headache in the future (specifically: he helped me change my panel sizings from vh to % as well as using the newly implemented dvh to the body, which will apparently future proof my code as well as improve ease of responsive design).
 
-Thank you to my classmates on Slack for assisting when I had questions regarding HTML tags, how to export wireframes in Balsamiq, and overall feedback of my page. <3 
+Thank you to my classmates on Slack for assisting me when I had questions regarding HTML tags, how to export wireframes in Balsamiq, and overall feedback on my page. <3 
 
 ## Retro Reflections
 
@@ -325,7 +329,6 @@ I am happy with how the colour palette turned out, I feel I was able to keep it 
 
 The font I took looks great and feels very Trek to me, and is easily readable.
 
-I had originally planned to have a page showcasing the Starships exhibition and fully plan on adding it in the future, but seeing as the layout was going to be almost identical to the crews page, I decided to cut this from my MVP for the sake of time.
+I had originally planned to have a page showcasing the Starships exhibition and fully plan on adding it in the future, but seeing as the layout was going to be almost identical to the crews' page, I decided to cut this from my MVP for the sake of time.
 
-The header and footer came out nicely, although I had planned on adding social media links which are very important and will try to squeeze those in the last minute!
-
+The header and footer came out nicely, although I had planned on adding social media links which are very important, and I will try to squeeze those in at the last minute!
