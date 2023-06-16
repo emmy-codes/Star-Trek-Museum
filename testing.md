@@ -25,8 +25,8 @@ To me this feels an unnecessary problem to fix because it is considered an indus
 * [HTML Check Crews Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/bfdc27f6-e838-4b06-ae02-04c915444be8) - No errors or warnings.
 
 * [HTML Check Contact Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/e14128ad-2d1f-416c-a2ba-cb7a2116fe89) - The contact page had 2 errors and a warning. 
-  The errors informed me I cannot have a paragraph tag as a child element of a span. This has been solved.
-  The warning reminded me to not use a section tag when there are no H tags inside of it. Changing this tag to a div tag made many changes to my CSS that I unfortunately didn't have time to rectify before handing in. My commits throughout the project have notations about changing other section tags due to lack of H tags so I was aware of the issue, but had unfortunately missed this one out.
+  The errors informed me I cannot have a paragraph tag as a child element of a span. The warning reminded me to not use a section tag when there are no H tags inside of it. These issues have been solved.
+  
   
 * [HTML Check Form Submission](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/9f7be74c-1eb7-4e5e-b202-1879a81a4531) - No errors or warnings.
 * [HTML Check 404](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/8b5094a7-77ca-4247-bca9-7eb50d3a2f05) - No errors or warnings.
@@ -63,7 +63,7 @@ Since the threshold for passing performance is much higher on mobile, I opted to
 * [Crews Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/af2d315b-2557-456a-b3c8-0df854d70b73) - Pass. On first try I received a disasterous performance score due to my images from IMDB being extremely large. I ran the images through Squoosh and was able to reduce the image size by 94%.
 * [Contact Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/c52db375-ef1d-4eb4-8090-acc3772377ff) - An 83 on Best Practices but this is due to the iframe being used on the map, which was a necessary part on my page.
 * [Form Submission Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/fe820606-2a53-421b-8b75-49cd23a4dc79) - Pass.
-* [404 Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/84b7c45c-fde0-443a-b0a7-e673e3474c4f) - An 83 on Best Practices due to using a gif rather than an image. I will look for a more appropriate error image, but lil' ol' facepalming Picard was just too perfect of a Trek meme reference to leave out!
+* [404 Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/84b7c45c-fde0-443a-b0a7-e673e3474c4f) - An 83 on Best Practices due to using a gif rather than an image. I will look for a more appropriate error image, but lil' ol' facepalming Picard was just too perfect of a Trek meme reference to leave out and hopefully this page is very rarely visited!
 
 ## MANUAL TESTING
 
@@ -83,6 +83,8 @@ The same feedback came from posting on peer-review on Slack, so after some panic
 
 I asked two of the people giving this feedback to check after I made the change to see if it was adequate. 
 
-[Existing User Feedback](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/f9b625ff-8a3e-4844-a51b-dbc5a022e32b)
+[Existing User Feedback](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/f9b625ff-8a3e-4844-a51b-dbc5a022e32b) - classmate code review thread.
+
+[Experienced User Feedback 2](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/1fa8e588-fb6d-42ce-82cd-6ca9cad4ad94) - Ex Spotify engineer confirming I made a good choice!
 
 I had planned to have more guidance in the form of extra navigation buttons and some CTAs but due to time constraints they were left out, but I am glad to see that the page is intuitive enough for both new and returning visitors to the site. 
