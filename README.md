@@ -178,8 +178,6 @@ A 5th page simply lets the user know their contact form has been submitted, whic
 
 Each page has the same header and nav bar and the same footer with the (fake) socials available. The desktop version has the navigation bar in the form of links in the top right corner, whereas the mobile versions have a hamburger menu with a dropdown containing the same links.
 
-* Retroactive - I soon realised that a hamburger menu required JS to implement, so the nav bar stayed the same on mobile devices.
-
 The tabs have a favicon of the Star Trek comms badge mentioned in the ### Imagery section which is designed to fit well on Chrome, Android, and Apple mobiles.
 
 *** In the interest of openness, AmIResponsive was giving me a bottom scroll bar on the mobile device image, upon inspecting they have set the min-width to 97vw which is giving a scrollbar that doesn't exist in the dev tools.
@@ -317,6 +315,8 @@ Thank you to my partner for his insight on media queries and guidance on the bes
 
 Thank you to my classmates on Slack for assisting me when I had questions regarding HTML tags, how to export wireframes in Balsamiq, and overall feedback on my page. <3 
 
+Thankyou to my friends and family for testing my site for me!
+
 ## Retro Reflections
 
 In my [New Users](#new-users) section I planned to add image buttons beneath the text.
@@ -331,4 +331,6 @@ The font I took looks great and feels very Trek to me, and is easily readable.
 
 I had originally planned to have a page showcasing the Starships exhibition and fully plan on adding it in the future, but seeing as the layout was going to be almost identical to the crews' page, I decided to cut this from my MVP for the sake of time.
 
-The header and footer came out nicely, although I had planned on adding social media links which are very important, and I will try to squeeze those in at the last minute!
+The header and footer came out nicely, although I had planned on adding social media links which are very important, and I will add those to my future implementations.
+
+I soon realised that the hamburger menu I designed on mobile required JS to implement, so the nav bar stayed the same on mobile devices.
