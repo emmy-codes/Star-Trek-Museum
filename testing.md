@@ -12,11 +12,32 @@
 
 ### W3C Validator
 
-[W3C](https://validator.w3.org/) was used for both HTML and CSS testing as Jigsaw is a part of this page. I received a plethera of info notifications about the forward slash on all of my self closing tags, stating it has no effect and interacts badly with unquoted attribute values.
+[W3C](https://validator.w3.org/) was used for both HTML and CSS testing as Jigsaw is a part of this page. 
 
-To me this feels an unnecessary problem to fix because it is considered an industry accepted standard to have self closing tags with the slash in them, and since plugins like Prettier add them by default it would be impossible to steer away from using them.
+##### HTML
 
-* The contact page had 2 errors and a warning. The errors informed me I cannot have a paragraph tag as a child element of a span. This has now been solved.
+I received 9 notifications about the forward slash on all of my self closing tags, stating it has no effect and interacts badly with unquoted attribute values.
+
+To me this feels an unnecessary problem to fix because it is considered an industry accepted standard to have self closing tags with the slash in them, and since plugins like Prettier add them by default it would be near impossible to steer away from using them. I have filtered them out of the screenshot for ease of reading.
+
+* [HTML Check Index](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/09561864-8773-4016-ba10-ee5bff22ff99) - No errors or warnings.
+* [HTML Check Crews Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/bfdc27f6-e838-4b06-ae02-04c915444be8) - No errors or warnings.
+
+* The contact page had 2 errors and a warning. 
+  The errors informed me I cannot have a paragraph tag as a child element of a span. This has been solved.
+  The warning reminded me to not use a section tag when there are no H tags inside of it. Changing this tag to a div tag made many changes to my CSS that I unfortunately didn't have time to rectify before handing in. My commits throughout the project have notations about changing other section tags due to lack of H tags so I was aware of the issue, but had unfortunately missed this one out.
+  [HTML Check Contact Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/e14128ad-2d1f-416c-a2ba-cb7a2116fe89)
+  
+* [HTML Check Form Submission](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/9f7be74c-1eb7-4e5e-b202-1879a81a4531) - No errors or warnings.
+* [HTML Check 404](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/8b5094a7-77ca-4247-bca9-7eb50d3a2f05) - No errors or warnings.
+  
+##### CSS
+  
+* [CSS Check Index](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/fe8e2a48-0241-4060-ae26-3ac3d5aa718b) - Validated/no errors.
+* [CSS Check Crews Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3ce4e8b8-c04b-4028-820f-22f2559e431b) - Validated/no errors.
+* [CSS Check Contact Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/6c25a5d4-eec7-4161-9e9f-f6a124d7c9e9) - Validated/no errors.
+* [CSS Check Form Submission](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/29bf1cc1-eba5-4f07-ab9b-423d4582ab09) - Validated/no errors.
+* [CSS Check 404](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/1cacffaa-aae5-4f98-84d8-c03dfda176cb) - Validated/no errors.
 
 ### Lighthouse
 
@@ -38,4 +59,4 @@ Since the threshold for passing performance is much higher on mobile, I opted to
 
 I posted my website onto Facebook for my family and friends to trial and give their input. The decision was unanimous - despite my code passing all the automated testing, users were finding it hard to read the text due to the brightness of some stars in the background. After some panic and research I discovered linear-gradient which allowed me to place a semi-opaque black layer on top of the image, thus allowing for more readability whilst still seeing the majority of the stars.
 
-![User trials](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/614878f2-95b0-408b-9f02-7d9de66d629e)
+[User trials](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/614878f2-95b0-408b-9f02-7d9de66d629e)
