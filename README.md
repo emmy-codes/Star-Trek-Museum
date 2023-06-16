@@ -2,7 +2,7 @@
 
 The Star Trek Museum is an imaged museum detailing the exhibitions available for fans of the franchise.
 
-![Star Trek AmIResponsive screenshot](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/3daf390b-1c33-4c1d-abee-33d695fe9828)
+![Am I Responsive Index](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/f6d9256b-dc20-49c0-b1ef-da1b785a9987)
 
 [Star Trek Museum Live Site](https://emmy-codes.github.io/Star-Trek-Museum/)
 
@@ -93,7 +93,7 @@ Doing some research I discovered a Tweet that Mike Okuda, the graphic designer w
 
 I had a look at these two fonts and agree that the Helvetica looks better as it is not as thick as Swiss 911, but the letters are very close together which is how they are on the LCARS system but for the sake of accessibility and UX I think they should have more spacing between them.
 
-Seeing as this is not a regular font most people will have on their computers, I researched what Google Font could be a suitable alternative and have decided to use Antonio (as is used on [The LCARS](https://www.thelcars.com/). This will ensure the page has a proper Trek feel to it without people needing special font packages installed. 
+Seeing as this is not a regular font most people will have on their computers, I researched what Google Font could be a suitable alternative and have decided to use Antonio (as is used on [The LCARS](https://www.thelcars.com/)). This will ensure the page has a proper Trek feel to it without people needing special font packages installed. 
 
 Taking a look at the example LCARS screen below, I decided 700 weight could be good for main titles, while 400 works nicely in sizes 48px for headings, and 21px and 16px for paragraphs/other text.
 
@@ -106,7 +106,9 @@ Taking a look at the example LCARS screen below, I decided 700 weight could be g
 
 ### Imagery
 
-During my research I came across a favicon of a Star Trek badge that I plan on using on each page: <img src="https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/65ab9634-8241-4687-b2b9-5a961057c6be" width="50px" height="50px" alt="Pixelated favicon of a gold and white Star Trek badge">
+During my research I came across a favicon of a Star Trek badge that I plan on using on each page: 
+
+![Pixelated favicon of a gold and white Star Trek badge](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/65ab9634-8241-4687-b2b9-5a961057c6be)
 
 #### Homepage
 
