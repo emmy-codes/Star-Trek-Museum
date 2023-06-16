@@ -23,10 +23,9 @@ To me this feels an unnecessary problem to fix because it is considered an indus
 * [HTML Check Index](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/09561864-8773-4016-ba10-ee5bff22ff99) - No errors or warnings.
 * [HTML Check Crews Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/bfdc27f6-e838-4b06-ae02-04c915444be8) - No errors or warnings.
 
-* The contact page had 2 errors and a warning. 
+* [HTML Check Contact Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/e14128ad-2d1f-416c-a2ba-cb7a2116fe89) - The contact page had 2 errors and a warning. 
   The errors informed me I cannot have a paragraph tag as a child element of a span. This has been solved.
   The warning reminded me to not use a section tag when there are no H tags inside of it. Changing this tag to a div tag made many changes to my CSS that I unfortunately didn't have time to rectify before handing in. My commits throughout the project have notations about changing other section tags due to lack of H tags so I was aware of the issue, but had unfortunately missed this one out.
-  [HTML Check Contact Page](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/e14128ad-2d1f-416c-a2ba-cb7a2116fe89)
   
 * [HTML Check Form Submission](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/9f7be74c-1eb7-4e5e-b202-1879a81a4531) - No errors or warnings.
 * [HTML Check 404](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/8b5094a7-77ca-4247-bca9-7eb50d3a2f05) - No errors or warnings.
@@ -57,6 +56,20 @@ Since the threshold for passing performance is much higher on mobile, I opted to
 
 ### User Testing
 
-I posted my website onto Facebook for my family and friends to trial and give their input. The decision was unanimous - despite my code passing all the automated testing, users were finding it hard to read the text due to the brightness of some stars in the background. After some panic and research I discovered linear-gradient which allowed me to place a semi-opaque black layer on top of the image, thus allowing for more readability whilst still seeing the majority of the stars.
+#### User Stories
+
+* New Users:
+
+I wanted to see how new users would experience my site, so I posted it to Facebook for my family and friends to try and give their input. The decision was unanimous - despite my code passing all the automated testing, users were finding it hard to read the text due to the brightness of some stars in the background. 
 
 [User trials](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/614878f2-95b0-408b-9f02-7d9de66d629e)
+
+The same feedback came from posting on peer-review on Slack, so after some panic and research I discovered linear-gradient which allowed me to place a semi-opaque black layer on top of the image, thus allowing for more readability whilst still seeing the majority of the stars.
+
+* Existing Users:
+
+I asked two of the people giving this feedback to check after I made the change to see if it was adequate. 
+
+[Existing User Feedback](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/f9b625ff-8a3e-4844-a51b-dbc5a022e32b)
+
+I had planned to have more guidance in the form of extra navigation buttons and some CTAs but due to time constraints they were left out, but I am glad to see that the page is intuitive enough for both new and returning visitors to the site. 
