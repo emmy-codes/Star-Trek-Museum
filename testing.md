@@ -1,6 +1,6 @@
 # Star Trek Museum -  Testing
 
-![Star Trek Museum](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/506ff96d-2bfc-4d33-b730-b194c3816380)
+![Am I Responsive Index](https://github.com/emmy-codes/Star-Trek-Museum/assets/70635859/f6d9256b-dc20-49c0-b1ef-da1b785a9987)
 
 * [AUTOMATED TESTING](#automated-testing)
   * [W3C Validator](#w3c-validator)
